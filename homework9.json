@@ -13,7 +13,7 @@
       "lookup": "properties.NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/archive%20(3)/population_stu.csv"
+          "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/homework/population_stu.csv"
         },
         "key": "Country",
         "fields": ["Students", "Population"]

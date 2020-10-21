@@ -4,7 +4,7 @@
   "height": 400,
   "title": "Number of University Students per Country",
   "data": {
-    "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/archive%20(3)/population_stu.csv"
+    "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/homework/population_stu.csv"
   },
   "params": [
     {
