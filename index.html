@@ -16,4 +16,13 @@
       .then(result => console.log(result))
       .catch(console.warn);
   </script>
+
+<script>
+  const spec = "bubbleplotStudent.json";
+  vegaEmbed("#vis", spec)
+    // result.view provides access to the Vega View API
+    .then(result => console.log(result))
+    .catch(console.warn);
+</script>
+
 </body>

@@ -1,0 +1,118 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 400,
+  "title": "Number of students per Country",
+  "data": {
+    "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/archive%20(3)/population_stu.csv"
+  },
+  "params": [
+    {
+      "name": "Population_Above",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 0,
+        "max": 100000000,
+        "step": 1000000,
+        "name": "Minimum Population: "
+      }
+    },
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceana"
+        ],
+        "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceana"
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Students > 0"},
+    {"filter": "datum.Population > 0"},
+    {"filter": "datum.Population > Population_Above"},
+    {
+      "calculate": "datum.Students/datum.Population * 10000",
+      "as": "Students per 10,000 Population"
+    },
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+  "mark": "circle",
+  "encoding": {
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Students", "type": "quantitative", "format": ","},
+      {
+        "field": "Students per 10,000 Population",
+        "type": "quantitative",
+        "format": ".2f"
+      }
+    ],
+    "x": {
+      "field": "Students",
+      "type": "quantitative",
+      "title": "Students",
+      "axis": {"tickCount": 7},
+      "scale": {"type": "log", "domain": [1000, 10000000000]}
+    },
+    "y": {
+      "field": "Population",
+      "type": "quantitative",
+      "axis": {"tickCount": 6},
+      "scale": {"type": "log", "domain": [1000, 10000000000]}
+    },
+    "color": {
+      "field": "Continent",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceana"
+        ],
+        "range": [
+          "#e41a1c",
+          "#984ea3",
+          "#ff7f00",
+          "#a6cee3",
+          "#377eb8",
+          "#a65628"
+        ]
+      }
+    },
+    "opacity": {"value": 0.6},
+    "size": {
+      "field": "Population",
+      "type": "quantitative",
+      "scale": {
+        "type": "threshold",
+        "domain": [1000000, 10000000, 50000000, 100000000, 500000000],
+        "range": [10, 50, 150, 200, 300, 400]
+      },
+      "legend": {"format": ".1s"}
+    }
+  },
+  "config": {}
+}
