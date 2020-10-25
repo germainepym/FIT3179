@@ -26,9 +26,6 @@
     {
       "calculate": "datum.Students/datum.Population * 10000",
       "as": "Students per 10,000 Population"
-    },
-    {
-      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
     }
   ],
   "mark": "circle",
