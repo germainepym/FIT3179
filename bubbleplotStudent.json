@@ -17,31 +17,6 @@
         "step": 1000000,
         "name": "Minimum Population: "
       }
-    },
-    {
-      "name": "Continent_selection",
-      "bind": {
-        "input": "select",
-        "options": [
-          null,
-          "North America",
-          "South America",
-          "Europe",
-          "Africa",
-          "Asia",
-          "Oceana"
-        ],
-        "labels": [
-          "Show All",
-          "North America",
-          "South America",
-          "Europe",
-          "Africa",
-          "Asia",
-          "Oceana"
-        ],
-        "name": "Continent Selection: "
-      }
     }
   ],
   "transform": [
