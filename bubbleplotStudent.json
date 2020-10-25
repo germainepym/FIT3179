@@ -8,24 +8,40 @@
   },
   "params": [
     {
-      "name": "Population_Above",
-      "value": 0,
+      "name": "Continent_selection",
       "bind": {
-        "input": "range",
-        "min": 0,
-        "max": 100000000,
-        "step": 1000000,
-        "name": "Minimum Population: "
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceana"
+        ],
+        "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceana"
+        ],
+        "name": "Continent Selection: "
       }
     }
   ],
   "transform": [
     {"filter": "datum.Students > 0"},
     {"filter": "datum.Population > 0"},
-    {"filter": "datum.Population > Population_Above"},
     {
       "calculate": "datum.Students/datum.Population * 10000",
       "as": "Students per 10,000 Population"
+    },
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
     }
   ],
   "mark": "circle",
