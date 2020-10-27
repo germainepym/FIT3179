@@ -76,9 +76,28 @@
 
                     <div class="post-description">
                         <p>
-                            A ranking system is necessary because there are millions of students around the world that deserves to know which education institute is best for them
+                            A ranking system is necessary because there are millions of students around the world that deserves to know which education institute is best for them.
+                            The map below illustrates how many students are there around the world. 
                         </p>
                         <div id="choropleth_map"></div>
+                    </div>
+                </section>
+
+                <section class="post">
+                    <header class="post-header">
+                       
+                        <h2 class="post-title">Overview of University Rankings</h2>
+
+
+                    <div class="post-description">
+                        
+                        <div id="donut_chart"></div>
+
+                        <p>
+                             The donut chart above illustrates....
+                        </p>
+
+                        <div id="bubble_plot"></div>
                     </div>
                 </section>
 
@@ -161,6 +180,20 @@
     vegaEmbed('#choropleth_map', vis1).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
+
+    var vis2 = "donut.json";
+    
+    vegaEmbed('#donut_chart', vis2).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var vis3 = "bubble.json";
+    
+    vegaEmbed('#bubble_plot', vis3).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+
 
   </script>
 
