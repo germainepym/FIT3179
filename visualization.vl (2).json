@@ -1,0 +1,110 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 500,
+  "height": 400,
+  "title": "Scores for the Top 10 University in 2016",
+  "data": {
+    "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/BubbleScore.csv"
+  },
+  "params": [
+    {
+      "name": "Category_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "teaching",
+          "international",
+          "research",
+          "citations",
+          "income",
+          "total"
+        ],
+        "labels": [
+          "Show All",
+          "teaching",
+          "international",
+          "research",
+          "citations",
+          "income",
+          "total"
+        ],
+        "name": "Category Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {"filter": "datum.Score > 0"},
+    {
+      "filter": "Category_selection == null || datum.Category == Category_selection"
+    }
+  ],
+  "mark": "circle",
+  "encoding": {
+    "tooltip": [
+      {"field": "university_name", "type": "nominal"},
+      {"field": "Score", "type": "quantitative", "format": ","},
+      {"field": "Category", "type": "nominal"}
+    ],
+    "x": {
+      "field": "university_name",
+      "type": "nominal",
+      "title": "Students",
+      "axis": {"tickCount": 7},
+      "scale": {
+        "domain": [
+          "California Institute of Technology",
+          "University of Oxford",
+          "Stanford University",
+          "University of Cambridge",
+          "Massachusetts Institute of Technology",
+          "Harvard University",
+          "Princeton University",
+          "Imperial College London",
+          "ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich",
+          "University of Chicago"
+        ]
+      }
+    },
+    "y": {
+      "field": "Score",
+      "type": "quantitative",
+      "axis": {"tickCount": 6},
+      "scale": {"domain": [1, 100]}
+    },
+    "color": {
+      "field": "Category",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "teaching",
+          "international",
+          "research",
+          "citations",
+          "income",
+          "total"
+        ],
+        "range": [
+          "#e41a1c",
+          "#984ea3",
+          "#ff7f00",
+          "#a6cee3",
+          "#377eb8",
+          "#a65628"
+        ]
+      }
+    },
+    "opacity": {"value": 0.6},
+    "size": {
+      "field": "Score",
+      "type": "quantitative",
+      "scale": {
+        "type": "threshold",
+        "domain": [20, 40, 60, 80],
+        "range": [10, 50, 150, 200, 300]
+      },
+      "legend": {"format": ".1s"}
+    }
+  },
+  "config": {}
+}

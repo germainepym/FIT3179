@@ -1,0 +1,17 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 350,
+  "height": 200,
+  "title": "Boxplot of Citation, Research and Teaching Score",
+  "description": "A vertical box plot showing median, min, and max body mass of penguins.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/scores2016.csv"
+  },
+  "mark": {"type": "boxplot", "extent": "min-max"},
+  "encoding": {
+    "x": {"field": "Category", "type": "nominal"},
+    "color": {"field": "Category", "type": "nominal", "legend": null},
+    "y": {"field": "Score", "type": "quantitative", "scale": {"zero": false}}
+  },
+  "config": {}
+}

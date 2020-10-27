@@ -1,0 +1,56 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "A simple donut chart with embedded data.",
+  "title": "Top 100 University by Country",
+  "data": {
+    "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/NumberofTop100Uni.csv"
+  },
+  "mark": {"type": "arc", "innerRadius": 50},
+  "encoding": {
+    "theta": {"field": "Number of Universities", "type": "quantitative"},
+    "color": {
+      "field": "Country",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Australia",
+          "Canada",
+          "China",
+          "France",
+          "Germany",
+          "Hong Kong",
+          "Ireland",
+          "Japan",
+          "Singapore",
+          "South Korea",
+          "Sweden",
+          "Switzerland",
+          "United Kingdom",
+          "United States of America"
+        ],
+        "range": [
+          "#c779d0",
+          "#984ea3",
+          "#4ca0d8",
+          "#a6cee3",
+          "#377eb8",
+          "#a65628",
+          "#ee9ca7",
+          "#c6ffdd",
+          "#fbd786",
+          "#f7797d",
+          "#eaafc8",
+          "#6a82fb",
+          "#0abfbc",
+          "#fc354c"
+        ]
+      }
+    },
+    "tooltip": [
+      {"field": "Country", "type": "nominal"},
+      {"field": "Number of Universities", "type": "quantitative", "format": ","}
+    ]
+  },
+  "view": {"stroke": null},
+  "config": {}
+}

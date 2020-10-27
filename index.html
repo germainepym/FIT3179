@@ -1,40 +1,168 @@
-<!DOCTYPE html>
-<html>
+<!doctype html>
+<html lang="en">
 <head>
-  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
-  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
-  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
-  <!-- Import vega-embed -->
-  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
-  
-  <!-- CSS file -->
-  <link rel="stylesheet" type="text/css" href="css/styles.css" media="all">
-  
+    <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+    <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+    <!-- Import vega-embed -->
+    <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A layout example that shows off a blog page with a list of posts.">
+    <title>Germaine Pok &ndash; 29797802 &ndash; Assignment 2</title>
+    <link rel="stylesheet" href="pure-min.css">
+    <link rel="stylesheet" href="grids-responsive-min.css">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
 
-<h1>Week 10 Homework</h1>
+<div id="layout" class="pure-g">
+    <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title"> World University Ranking 2016</h1>
+            <h2 class="brand-tagline">based on Times ranking system</h2>
+        </div>
+    </div>
 
-<h2>This is the first visualisation</h2>
-<div id="choropleth_map"></div>
+    <div class="content pure-u-1 pure-u-md-3-4">
+        <div>
+            <!-- A wrapper for all the blog posts -->
+            <div class="posts">
+                <h1 class="content-subhead">Introduction</h1>
 
-<h2>This is the second visualisation</h2>
-<div id="scatter_plot"></div>
+                <!-- A single blog post -->
+                <section class="post">
+                    <header class="post-header">
+
+                        <h2 class="post-title">What is Times University Ranking System?</h2>
+
+                    </header>
+
+                    <div class="post-description">
+                        <p>
+                            How is the results of World University Ranking calculated? Through Times University Ranking System, each university is judge through 5 core missions of world-class,
+                            global universities. The 5 categories are: <br>
+                            - Teaching<br>
+                            - Reasearch<br>
+                            - Citations<br>
+                            - Industry Income<br>
+                            - International Outlook <br><br>
+
+                            <b>Teaching score </b>is evaluated based on the <b>learning environment</b> and the <b>quality of teaching of the university</b>, while <b>research score</b> is based on their <b>research productivity</b> and whether how much high quality research the has university published
+                            and whether it is <b>perceived well</b> by academic peers around the world.  Citation score
+                            is calculated based on whether it has <b>research influence </b>and whether it is highly cited by other scholars that are leaders in their respective fields. 
+                            These 3 scores heavily influence the ranking of the university as they each carry <b>30 percentage weight out of 100</b>. 
+                            <br><br>
+                            Industry income is judge by the <b>commercial impact</b> of an institution’s research, which is itself a reflection of the industrial value of the research. Lastly,
+                            the international outlook score is evaluated by <b>international to domestic student ratio</b>, <b>international to domestic staff ratio</b>, and the <b>proportion of research that involves international collaboration</b>.
+
+                            Industry income carries <b>2.5 percentage weight out of 100</b> while international outlook score <b>7.5 percentage weight out of 100</b>.
+                        </p>
+                    </div>
+                </section>
+            </div>
+
+            <div class="posts">
+                <h1 class="content-subhead">Visualisation</h1>
+
+                <section class="post">
+                    <header class="post-header">
+                       
+                        <h2 class="post-title">Do we need a ranking system?</h2>
+
+
+                    <div class="post-description">
+                        <p>
+                            A ranking system is necessary because there are millions of students around the world that deserves to know which education institute is best for them
+                        </p>
+                        <div id="choropleth_map"></div>
+                    </div>
+                </section>
+
+                <section class="post">
+                    <header class="post-header">
+                        <img width="48" height="48" alt="Reid Burke&#x27;s avatar" class="post-avatar" src="/img/common/reid-avatar.png">
+
+                        <h2 class="post-title">Photos from CSSConf and JSConf</h2>
+
+                        <p class="post-meta">
+                            By <a class="post-author" href="#">Reid Burke</a> under <a class="post-category" href="#">Uncategorized</a>
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <div class="post-images pure-g">
+                            <div class="pure-u-1 pure-u-md-1-2">
+                                <a href="http://www.flickr.com/photos/uberlife/8915936174/">
+                                    <img alt="Photo of someone working poolside at a resort"
+                                         class="pure-img-responsive"
+                                         src="http://farm8.staticflickr.com/7448/8915936174_8d54ec76c6.jpg">
+                                </a>
+
+                                <div class="post-image-meta">
+                                    <h3>CSSConf Photos</h3>
+                                </div>
+                            </div>
+
+                            <div class="pure-u-1 pure-u-md-1-2">
+                                <a href="http://www.flickr.com/photos/uberlife/8907351301/">
+                                    <img alt="Photo of the sunset on the beach"
+                                         class="pure-img-responsive"
+                                         src="http://farm8.staticflickr.com/7382/8907351301_bd7460cffb.jpg">
+                                </a>
+
+                                <div class="post-image-meta">
+                                    <h3>JSConf Photos</h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="post">
+                    <header class="post-header">
+                        <img width="48" height="48" alt="Andrew Wooldridge&#x27;s avatar" class="post-avatar" src="/img/common/andrew-avatar.png">
+
+                        <h2 class="post-title">YUI 3.10.2 Released</h2>
+
+                        <p class="post-meta">
+                            By <a class="post-author" href="#">Andrew Wooldridge</a> under <a class="post-category post-category-yui" href="#">YUI</a>
+                        </p>
+                    </header>
+
+                    <div class="post-description">
+                        <p>
+                            We are happy to announce the release of YUI 3.10.2! You can find it now on the Yahoo! CDN, download it directly, or pull it in via npm. We’ve also updated the YUI Library website with the latest documentation.
+                        </p>
+                    </div>
+                </section>
+            </div>
+
+            <div class="footer">
+                <div class="pure-menu pure-menu-horizontal">
+                    <ul>
+                        <li class="pure-menu-item"><a href="http://purecss.io/" class="pure-menu-link">About</a></li>
+                        <li class="pure-menu-item"><a href="http://twitter.com/yuilibrary/" class="pure-menu-link">Twitter</a></li>
+                        <li class="pure-menu-item"><a href="http://github.com/pure-css/pure/" class="pure-menu-link">GitHub</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <script type="text/javascript">
   
-  var vis1 = "homework9.json";
-  
-  vegaEmbed('#choropleth_map', vis1).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-  
-  var vis2 = "bubbleplotStudent.json";
-  
-  vegaEmbed('#scatter_plot', vis2).then(function(result) {
-    // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
-  }).catch(console.error);
-</script>
+    var vis1 = "worldmap.json";
+    
+    vegaEmbed('#choropleth_map', vis1).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+  </script>
 
 </body>
 </html>
