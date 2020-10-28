@@ -1,51 +1,51 @@
-﻿Category,Score
-teaching,95.6
-teaching,86.5
-teaching,92.5
-teaching,88.2
-teaching,89.4
-teaching,83.6
-teaching,85.1
-teaching,83.3
-teaching,77
-teaching,85.7
-international,64
-international,94.4
-international,76.3
-international,91.5
-international,84
-international,77.2
-international,78.5
-international,96
-international,97.9
-international,65
-research,97.6
-research,98.9
-research,96.2
-research,96.7
-research,88.6
-research,99
-research,91.9
-research,88.5
-research,95
-research,88.9
-citation,99.8
-citation,98.8
-citation,99.9
-citation,97
-citation,99.7
-citation,99.8
-citation,99.3
-citation,96.7
-citation,91.1
-citation,99.2
-income,97.8
-income,73.1
-income,63.3
-income,55
-income,95.4
-income,45.2
-income,52.1
-income,53.7
-income,80
-income,36.6
+﻿Category,Score,world_rank,university_name,country
+teaching,95.6,1,California Institute of Technology,United States of America
+teaching,86.5,2,University of Oxford,United Kingdom
+teaching,92.5,3,Stanford University,United States of America
+teaching,88.2,4,University of Cambridge,United Kingdom
+teaching,89.4,5,Massachusetts Institute of Technology,United States of America
+teaching,83.6,6,Harvard University,United States of America
+teaching,85.1,7,Princeton University,United States of America
+teaching,83.3,8,Imperial College London,United Kingdom
+teaching,77,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+teaching,85.7,10,University of Chicago,United States of America
+international,64,1,California Institute of Technology,United States of America
+international,94.4,2,University of Oxford,United Kingdom
+international,76.3,3,Stanford University,United States of America
+international,91.5,4,University of Cambridge,United Kingdom
+international,84,5,Massachusetts Institute of Technology,United States of America
+international,77.2,6,Harvard University,United States of America
+international,78.5,7,Princeton University,United States of America
+international,96,8,Imperial College London,United Kingdom
+international,97.9,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+international,65,10,University of Chicago,United States of America
+research,97.6,1,California Institute of Technology,United States of America
+research,98.9,2,University of Oxford,United Kingdom
+research,96.2,3,Stanford University,United States of America
+research,96.7,4,University of Cambridge,United Kingdom
+research,88.6,5,Massachusetts Institute of Technology,United States of America
+research,99,6,Harvard University,United States of America
+research,91.9,7,Princeton University,United States of America
+research,88.5,8,Imperial College London,United Kingdom
+research,95,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+research,88.9,10,University of Chicago,United States of America
+citation,99.8,1,California Institute of Technology,United States of America
+citation,98.8,2,University of Oxford,United Kingdom
+citation,99.9,3,Stanford University,United States of America
+citation,97,4,University of Cambridge,United Kingdom
+citation,99.7,5,Massachusetts Institute of Technology,United States of America
+citation,99.8,6,Harvard University,United States of America
+citation,99.3,7,Princeton University,United States of America
+citation,96.7,8,Imperial College London,United Kingdom
+citation,91.1,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+citation,99.2,10,University of Chicago,United States of America
+income,97.8,1,California Institute of Technology,United States of America
+income,73.1,2,University of Oxford,United Kingdom
+income,63.3,3,Stanford University,United States of America
+income,55,4,University of Cambridge,United Kingdom
+income,95.4,5,Massachusetts Institute of Technology,United States of America
+income,45.2,6,Harvard University,United States of America
+income,52.1,7,Princeton University,United States of America
+income,53.7,8,Imperial College London,United Kingdom
+income,80,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+income,36.6,10,University of Chicago,United States of America
