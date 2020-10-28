@@ -16,7 +16,7 @@
           "type": "quantitative",
           "stack": "zero"
         },
-        "y": {"field": "university_name", "type": "nominal"},
+        "y": {"field": "University Name", "type": "nominal"},
         "color": {"field": "Category", "type": "nominal"}
       }
     },
@@ -29,7 +29,7 @@
           "type": "quantitative",
           "stack": "zero"
         },
-        "y": {"field": "university_name", "type": "nominal"},
+        "y": {"field": "University Name", "type": "nominal"},
         "color": {
           "field": "Category",
           "type": "nominal",
@@ -37,7 +37,7 @@
           "legend": null
         },
         "tooltip": [
-          {"field": "world_rank", "type": "nominal"},
+          {"field": "World Rank", "type": "nominal"},
           {"field": "Category", "type": "nominal"},
           {"field": "Score", "type": "quantitative", "format": ","}
           ],
