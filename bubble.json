@@ -46,7 +46,7 @@
       {"field": "Score", "type": "quantitative", "format": ","},
       {"field": "Category", "type": "nominal"}
     ],
-    "x": {
+    "y": {
       "field": "University Name",
       "type": "nominal",
       "title": "Students",
@@ -66,7 +66,7 @@
         ]
       }
     },
-    "y": {
+    "x": {
       "field": "Score",
       "type": "quantitative",
       "axis": {"tickCount": 6},
