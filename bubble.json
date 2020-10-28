@@ -42,26 +42,26 @@
   "mark": "circle",
   "encoding": {
     "tooltip": [
-      {"field": "university_name", "type": "nominal"},
+      {"field": "University Name", "type": "nominal"},
       {"field": "Score", "type": "quantitative", "format": ","},
       {"field": "Category", "type": "nominal"}
     ],
     "x": {
-      "field": "university_name",
+      "field": "University Name",
       "type": "nominal",
       "title": "Students",
       "axis": {"tickCount": 7},
       "scale": {
         "domain": [
-          "California Institute of Technology",
+          "Caltech",
           "University of Oxford",
           "Stanford University",
           "University of Cambridge",
-          "Massachusetts Institute of Technology",
+          "MIT",
           "Harvard University",
           "Princeton University",
           "Imperial College London",
-          "ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich",
+          "ETH Zurich",
           "University of Chicago"
         ]
       }

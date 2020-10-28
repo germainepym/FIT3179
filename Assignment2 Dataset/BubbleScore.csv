@@ -1,61 +1,61 @@
-﻿Category,Score,world_rank,university_name,country
-teaching,95.6,1,California Institute of Technology,United States of America
+﻿Category,Score,World Rank,University Name,Country
+teaching,95.6,1,Caltech,United States of America
 teaching,86.5,2,University of Oxford,United Kingdom
 teaching,92.5,3,Stanford University,United States of America
 teaching,88.2,4,University of Cambridge,United Kingdom
-teaching,89.4,5,Massachusetts Institute of Technology,United States of America
+teaching,89.4,5,MIT,United States of America
 teaching,83.6,6,Harvard University,United States of America
 teaching,85.1,7,Princeton University,United States of America
 teaching,83.3,8,Imperial College London,United Kingdom
-teaching,77,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+teaching,77,9,ETH Zurich,Switzerland
 teaching,85.7,10,University of Chicago,United States of America
-international,64,1,California Institute of Technology,United States of America
+international,64,1,Caltech,United States of America
 international,94.4,2,University of Oxford,United Kingdom
 international,76.3,3,Stanford University,United States of America
 international,91.5,4,University of Cambridge,United Kingdom
-international,84,5,Massachusetts Institute of Technology,United States of America
+international,84,5,MIT,United States of America
 international,77.2,6,Harvard University,United States of America
 international,78.5,7,Princeton University,United States of America
 international,96,8,Imperial College London,United Kingdom
-international,97.9,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+international,97.9,9,ETH Zurich,Switzerland
 international,65,10,University of Chicago,United States of America
-research,97.6,1,California Institute of Technology,United States of America
+research,97.6,1,Caltech,United States of America
 research,98.9,2,University of Oxford,United Kingdom
 research,96.2,3,Stanford University,United States of America
 research,96.7,4,University of Cambridge,United Kingdom
-research,88.6,5,Massachusetts Institute of Technology,United States of America
+research,88.6,5,MIT,United States of America
 research,99,6,Harvard University,United States of America
 research,91.9,7,Princeton University,United States of America
 research,88.5,8,Imperial College London,United Kingdom
-research,95,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+research,95,9,ETH Zurich,Switzerland
 research,88.9,10,University of Chicago,United States of America
-citations,99.8,1,California Institute of Technology,United States of America
+citations,99.8,1,Caltech,United States of America
 citations,98.8,2,University of Oxford,United Kingdom
 citations,99.9,3,Stanford University,United States of America
 citations,97,4,University of Cambridge,United Kingdom
-citations,99.7,5,Massachusetts Institute of Technology,United States of America
+citations,99.7,5,MIT,United States of America
 citations,99.8,6,Harvard University,United States of America
 citations,99.3,7,Princeton University,United States of America
 citations,96.7,8,Imperial College London,United Kingdom
-citations,91.1,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+citations,91.1,9,ETH Zurich,Switzerland
 citations,99.2,10,University of Chicago,United States of America
-income,97.8,1,California Institute of Technology,United States of America
+income,97.8,1,Caltech,United States of America
 income,73.1,2,University of Oxford,United Kingdom
 income,63.3,3,Stanford University,United States of America
 income,55,4,University of Cambridge,United Kingdom
-income,95.4,5,Massachusetts Institute of Technology,United States of America
+income,95.4,5,MIT,United States of America
 income,45.2,6,Harvard University,United States of America
 income,52.1,7,Princeton University,United States of America
 income,53.7,8,Imperial College London,United Kingdom
-income,80,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+income,80,9,ETH Zurich,Switzerland
 income,36.6,10,University of Chicago,United States of America
-total,95.2,1,California Institute of Technology,United States of America
+total,95.2,1,Caltech,United States of America
 total,94.2,2,University of Oxford,United Kingdom
 total,93.9,3,Stanford University,United States of America
 total,92.8,4,University of Cambridge,United Kingdom
-total,92,5,Massachusetts Institute of Technology,United States of America
+total,92,5,MIT,United States of America
 total,91.6,6,Harvard University,United States of America
 total,90.1,7,Princeton University,United States of America
 total,89.1,8,Imperial College London,United Kingdom
-total,88.3,9,ETH Zurich ‚Äì Swiss Federal Institute of Technology Zurich,Switzerland
+total,88.3,9,ETH Zurich,Switzerland
 total,87.9,10,University of Chicago,United States of America
