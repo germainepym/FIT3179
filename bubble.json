@@ -49,7 +49,6 @@
     "y": {
       "field": "University Name",
       "type": "nominal",
-      "title": "Students",
       "axis": {"tickCount": 7},
       "scale": {
         "domain": [
