@@ -1,0 +1,61 @@
+world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,female_male_ratio,year,International Student
+1,Harvard University,United States of America,99.7,72.4,98.7,98.8,34.5,96.1,"20,152",8.9,25%,,2011,5038
+2,Caltech,United States of America,97.7,54.6,98,99.9,83.7,96,"2,243",6.9,27%,33 : 67,2011,605.61
+3,MIT,United States of America,97.8,82.3,91.4,99.9,87.5,95.6,"11,074",9,33%,37 : 63,2011,3654.42
+4,Stanford University,United States of America,98.3,29.5,98.1,99.2,64.3,94.3,"15,596",7.8,22%,42:58:00,2011,3431.12
+5,Princeton University,United States of America,90.9,70.3,95.4,99.9,-,94.2,"7,929",8.4,27%,45:55:00,2011,2140.83
+6,University of Cambridge,United Kingdom,90.5,77.7,94.1,94,57,91.2,"18,812",11.8,34%,46:54:00,2011,6396.08
+6,University of Oxford,United Kingdom,88.2,77.2,93.9,95.1,73.5,91.2,"19,919",11.6,34%,46:54:00,2011,6772.46
+9,Imperial College London,United Kingdom,89.2,90,94.5,88.3,92.9,90.6,"15,060",11.7,51%,37 : 63,2011,7680.6
+12,University of Chicago,United States of America,79.1,62.8,87.9,96.9,-,86.9,"14,221",6.9,21%,42:58:00,2011,2986.41
+15,ETH Zurich ,Switzerland,77.5,93.7,87.8,83.1,-,83.4,"18,178",14.7,37%,31 : 69,2011,6725.86
+1,Caltech,United States of America,95.7,56,98.2,99.9,97,94.8,"2,243",6.9,27%,33 : 67,2012,605.61
+2,Harvard University,United States of America,95.8,67.5,97.4,99.8,35.9,93.9,"20,152",8.9,25%,,2012,5038
+2,Stanford University,United States of America,94.8,57.2,98.9,99.8,63.8,93.9,"15,596",7.8,22%,42:58:00,2012,3431.12
+4,University of Oxford,United Kingdom,89.5,91.9,96.6,97.9,62.1,93.6,"19,919",11.6,34%,46:54:00,2012,6772.46
+5,Princeton University,United States of America,91.5,49.6,99.1,100,81,92.9,"7,929",8.4,27%,45:55:00,2012,2140.83
+6,University of Cambridge,United Kingdom,90.5,85.3,94.2,97.3,55.5,92.4,"18,812",11.8,34%,46:54:00,2012,6396.08
+7,MIT,United States of America,92.7,79.2,87.4,100,94.4,92.3,"11,074",9,33%,37 : 63,2012,3654.42
+8,Imperial College London,United Kingdom,88.8,92.2,88.7,93.9,93.1,90.7,"15,060",11.7,51%,37 : 63,2012,7680.6
+9,University of Chicago,United States of America,89.4,58.8,90.8,99.4,-,90.2,"14,221",6.9,21%,42:58:00,2012,2986.41
+15,ETH Zurich ,Switzerland,79.1,97.5,85.8,87.2,-,85,"18,178",14.7,37%,31 : 69,2012,6725.86
+1,Caltech,United States of America,96.3,59.8,99.4,99.7,95.6,95.5,"2,243",6.9,27%,33 : 67,2013,605.61
+2,Stanford University,United States of America,95,56.6,98.8,99.3,62.4,93.7,"15,596",7.8,22%,42:58:00,2013,3431.12
+2,University of Oxford,United Kingdom,89.7,88.7,98.1,95.6,79.8,93.7,"19,919",11.6,34%,46:54:00,2013,6772.46
+4,Harvard University,United States of America,94.9,63.7,98.6,99.2,39.9,93.6,"20,152",8.9,25%,,2013,5038
+5,MIT,United States of America,92.9,81.6,89.2,99.9,92.9,93.1,"11,074",9,33%,37 : 63,2013,3654.42
+6,Princeton University,United States of America,89.5,54.5,99.4,99.8,79.5,92.7,"7,929",8.4,27%,45:55:00,2013,2140.83
+7,University of Cambridge,United Kingdom,91.2,83.6,95.6,96.2,59.1,92.6,"18,812",11.8,34%,46:54:00,2013,6396.08
+8,Imperial College London,United Kingdom,88,91.4,90.9,93,87.5,90.6,"15,060",11.7,51%,37 : 63,2013,7680.6
+10,University of Chicago,United States of America,89.6,55.3,92.9,98.7,-,90.4,"14,221",6.9,21%,42:58:00,2013,2986.41
+12,ETH Zurich ,Switzerland,82.5,95.7,92.7,86.6,-,87.8,"18,178",14.7,37%,31 : 69,2013,6725.86
+1,Caltech,United States of America,94.4,65.8,98.2,99.8,91.2,94.9,"2,243",6.9,27%,33 : 67,2014,605.61
+2,Harvard University,United States of America,95.3,66.2,98.5,99.1,40.6,93.9,"20,152",8.9,25%,,2014,5038
+2,University of Oxford,United Kingdom,89,90.2,98.5,95.4,90.3,93.9,"19,919",11.6,34%,46:54:00,2014,6772.46
+4,Stanford University,United States of America,94.7,68,96.8,99.1,61.3,93.8,"15,596",7.8,22%,42:58:00,2014,3431.12
+5,MIT,United States of America,92.9,82,89,100,94.3,93,"11,074",9,33%,37 : 63,2014,3654.42
+6,Princeton University,United States of America,89.9,59.6,97.6,99.7,80.5,92.7,"7,929",8.4,27%,45:55:00,2014,2140.83
+7,University of Cambridge,United Kingdom,90.6,86.7,95.3,95.7,52.8,92.3,"18,812",11.8,34%,46:54:00,2014,6396.08
+9,University of Chicago,United States of America,85.6,58.6,88.2,98,-,87.8,"14,221",6.9,21%,42:58:00,2014,2986.41
+10,Imperial College London,United Kingdom,84.5,91.8,88.1,90,72.3,87.5,"15,060",11.7,51%,37 : 63,2014,7680.6
+14,ETH Zurich ,Switzerland,77.6,96.7,88.2,85,78.8,84.5,"18,178",14.7,37%,31 : 69,2014,6725.86
+1,Caltech,United States of America,92.2,67,98.1,99.7,89.1,94.3,"2,243",6.9,27%,33 : 67,2015,605.61
+2,Harvard University,United States of America,92.9,67.6,98.6,98.9,44,93.3,"20,152",8.9,25%,,2015,5038
+3,University of Oxford,United Kingdom,88.6,90.7,97.7,95.5,72.9,93.2,"19,919",11.6,34%,46:54:00,2015,6772.46
+4,Stanford University,United States of America,91.5,69,96.7,99.1,63.1,92.9,"15,596",7.8,22%,42:58:00,2015,3431.12
+5,University of Cambridge,United Kingdom,89.7,87.8,95.6,95.2,51.1,92,"18,812",11.8,34%,46:54:00,2015,6396.08
+6,MIT,United States of America,89.1,84.3,88.2,100,95.7,91.9,"11,074",9,33%,37 : 63,2015,3654.42
+7,Princeton University,United States of America,86.6,61.2,94.7,99.6,82.7,90.9,"7,929",8.4,27%,45:55:00,2015,2140.83
+9,Imperial College London,United Kingdom,84.6,92.7,88.3,89.4,72.7,87.5,"15,060",11.7,51%,37 : 63,2015,7680.6
+11,University of Chicago,United States of America,83.9,65.2,89.9,97.3,36.8,87.1,"14,221",6.9,21%,42:58:00,2015,2986.41
+13,ETH Zurich ,Switzerland,78.2,96.6,90.2,83.5,73.2,84.6,"18,178",14.7,37%,31 : 69,2015,6725.86
+1,Caltech,United States of America,95.6,64,97.6,99.8,97.8,95.2,"2,243",6.9,27%,33 : 67,2016,605.61
+2,University of Oxford,United Kingdom,86.5,94.4,98.9,98.8,73.1,94.2,"19,919",11.6,34%,46:54:00,2016,6772.46
+3,Stanford University,United States of America,92.5,76.3,96.2,99.9,63.3,93.9,"15,596",7.8,22%,42:58:00,2016,3431.12
+4,University of Cambridge,United Kingdom,88.2,91.5,96.7,97,55,92.8,"18,812",11.8,34%,46:54:00,2016,6396.08
+5,MIT,United States of America,89.4,84,88.6,99.7,95.4,92,"11,074",9,33%,37 : 63,2016,3654.42
+6,Harvard University,United States of America,83.6,77.2,99,99.8,45.2,91.6,"20,152",8.9,25%,,2016,5038
+7,Princeton University,United States of America,85.1,78.5,91.9,99.3,52.1,90.1,"7,929",8.4,27%,45:55:00,2016,2140.83
+8,Imperial College London,United Kingdom,83.3,96,88.5,96.7,53.7,89.1,"15,060",11.7,51%,37 : 63,2016,7680.6
+9,ETH Zurich ,Switzerland,77,97.9,95,91.1,80,88.3,"18,178",14.7,37%,31 : 69,2016,6725.86
+10,University of Chicago,United States of America,85.7,65,88.9,99.2,36.6,87.9,"14,221",6.9,21%,42:58:00,2016,2986.41
