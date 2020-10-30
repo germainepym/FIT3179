@@ -1,4 +1,4 @@
-world_rank,university_name,country,teaching,international,research,citations,income,total_score,num_students,student_staff_ratio,international_students,female_male_ratio,year,International Student
+World Rank,University Name,Country,teaching,international,research,citations,income,total score,number of students,student_staff_ratio,international_students,female_male_ratio,Year,International Student
 1,California Institute of Technology,United States of America,95.6,64,97.6,99.8,97.8,95.2,"2,243",6.9,27%,33 : 67,2016,605.61
 2,University of Oxford,United Kingdom,86.5,94.4,98.9,98.8,73.1,94.2,"19,919",11.6,34%,46:54:00,2016,6772.46
 3,Stanford University,United States of America,92.5,76.3,96.2,99.9,63.3,93.9,"15,596",7.8,22%,42:58:00,2016,3431.12
