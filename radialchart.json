@@ -1,0 +1,39 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 350,
+  "height": 200,
+  "description": "A simple radial chart with embedded data.",
+  "title": "Top 10 University in 2016",
+  "data": {
+    "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/Top102016.csv"
+  },
+  "layer": [
+    {"mark": {"type": "arc", "innerRadius": 20, "stroke": "#fff"}},
+    {
+      "mark": {"type": "text", "radiusOffset": 10},
+      "encoding": {
+        "text": {"field": "World Rank", "type": "quantitative", "format": ".0f"}
+      }
+    }
+  ],
+  "encoding": {
+    "theta": {
+      "field": "World Rank",
+      "type": "quantitative",
+      "stack": true,
+      "sort": "ascending"
+    },
+    "radius": {
+      "field": "World Rank",
+      "scale": {"type": "sqrt", "zero": true, "rangeMin": 20},
+      "sort": "ascending"
+    },
+    "color": {"field": "University Name", "type": "nominal", "legend": null},
+    "tooltip": [
+      {"field": "University Name", "type": "nominal"},
+      {"field": "World Rank", "type": "nominal"}
+    ]
+  },
+  "view": {"stroke": null},
+  "config": {}
+}

@@ -96,7 +96,7 @@
                                 <div id="donut_chart"></div>
                             </div>
                             <div class="column">
-                              <img src="img_forest.jpg" alt="Forest" style="width:100%">
+                                <div id="radial_chart"></div>
                             </div>
                            
                           </div>
@@ -175,6 +175,12 @@
     var vis6 = "scatterplotmatrix.json";
     
     vegaEmbed('#scatter_matrix', vis6).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var vis7 = "radiachart.json";
+    
+    vegaEmbed('#radial_chart', vis7).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 
