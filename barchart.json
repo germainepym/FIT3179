@@ -7,13 +7,13 @@
   "layer": [
      {"mark": "bar",
       "encoding": {
-        "x": {"aggregate": "sum", "field": "Score", "type": "quantitative", "stack": "zero"},
+        "x": {"aggregate": "sum", "field": "Actual Score", "type": "quantitative", "stack": "zero"},
         "y": {"field": "University Name", "type": "nominal"},
         "color": {"field": "Category", "type": "nominal"}}
      },
      {"mark": {"type": "text", "dx": -15, "dy": 3},
       "encoding": {
-        "x": {"aggregate": "sum", "field": "Score", "type": "quantitative", "stack": "zero"},
+        "x": {"aggregate": "sum", "field": "Actual Score", "type": "quantitative", "stack": "zero"},
         "y": {"field": "University Name", "type": "nominal"},
         "color": {"field": "Category", "type": "nominal", "scale": {"range": ["white"]}, "legend": null},
         "tooltip": [
