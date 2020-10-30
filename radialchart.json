@@ -28,7 +28,7 @@
       "scale": {"type": "sqrt", "zero": true, "rangeMin": 20},
       "sort": "ascending"
     },
-    "color": {"field": "University Name", "type": "nominal", "legend": null},
+    "color": {"field": "University Name", "type": "nominal"},
     "tooltip": [
       {"field": "University Name", "type": "nominal"},
       {"field": "World Rank", "type": "nominal"}
