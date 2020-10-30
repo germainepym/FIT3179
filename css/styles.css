@@ -33,6 +33,19 @@
 	width: 800px;*/
 }
 
+#radial_chart{
+	left: 100px;
+	right: 100px;
+	/*height: 1000px;
+	width: 800px;*/
+}
+
+#scatter_matrix{
+	left: 100px;
+	right: 100px;
+	/*height: 1000px;
+	width: 800px;*/
+}
 body{
     font-family: 'Source Sans Pro', sans-serif;
 }
