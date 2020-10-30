@@ -1,27 +1,16 @@
 {
-  "$schema": "https://vega.github.io/schema/vega-lite/v2.json",
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {"url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/top10Scores.csv"},
   "width": 500, "height": 250,
-  "resolve": {"scale": {"color": "independent"}},
-  
-  "layer": [
-     {"mark": "bar",
-      "encoding": {
-        "x": {"aggregate": "sum", "field": "Actual Score", "type": "quantitative", "stack": "zero"},
-        "y": {"field": "University Name", "type": "nominal"},
-        "color": {"field": "Category", "type": "nominal"}}
-     },
-     {"mark": {"type": "text", "dx": -15, "dy": 3},
-      "encoding": {
-        "x": {"aggregate": "sum", "field": "Actual Score", "type": "quantitative", "stack": "zero"},
-        "y": {"field": "University Name", "type": "nominal"},
-        "color": {"field": "Category", "type": "nominal", "scale": {"range": ["white"]}, "legend": null},
-        "tooltip": [
+  "mark": "bar",
+  "encoding": {
+    "x": {"aggregate": "sum", "field": "Actual Score", "type": "quantitative"},
+    "y": {"field": "University Name", "type": "nominal"},
+    "color": {"field": "Category", "type": "nominal"},
+     "tooltip": [
  {"field": "World Rank", "type": "nominal"},
  {"field": "Category", "type": "nominal"},
- {"field": "Actual Score", "type": "quantitative", "format": ","}
- ],
-        "text": {"aggregate": "sum", "field": "Actual Score", "type": "quantitative", "format": ".1f"}}
-    }
-  ]
+ {"field": "Score", "type": "quantitative", "format": ".1f"}
+ ]
+  }
 }
