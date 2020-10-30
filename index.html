@@ -112,6 +112,7 @@
                         <div id="bubble_plot"></div><br>
                         <div id="box_plot"></div><br>
                         <div id="bar_chart"></div><br>
+                        <div id="scatter_matrix"></div><br>
                     </div>
                 </section>
             </div>
@@ -158,6 +159,12 @@
     var vis5 = "barchart.json";
     
     vegaEmbed('#bar_chart', vis5).then(function(result) {
+      // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
+    }).catch(console.error);
+
+    var vis6 = "scatterplotmatrix.json";
+    
+    vegaEmbed('#scatter_matrix', vis6).then(function(result) {
       // Access the Vega view instance (https://vega.github.io/vega/docs/api/view/) as result.view
     }).catch(console.error);
 

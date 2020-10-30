@@ -1,0 +1,84 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "repeat": {
+    "row": ["research", "citations", "teaching"],
+    "column": ["teaching", "citations", "research"]
+  },
+  "params": [
+    {
+      "name": "Continent_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceana"
+        ],
+        "labels": [
+          "Show All",
+          "North America",
+          "South America",
+          "Europe",
+          "Africa",
+          "Asia",
+          "Oceania"
+        ],
+        "name": "Continent Selection: "
+      }
+    }
+  ],
+  "transform": [
+    {
+      "filter": "Continent_selection == null || datum.Continent == Continent_selection"
+    }
+  ],
+  "spec": {
+    "data": {
+      "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/timesData2016.csv"
+    },
+    "mark": "point",
+    "selection": {
+      "brush": {
+        "type": "interval",
+        "resolve": "union",
+        "on": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+        "translate": "[mousedown[event.shiftKey], window:mouseup] > window:mousemove!",
+        "zoom": "wheel![event.shiftKey]"
+      },
+      "grid": {
+        "type": "interval",
+        "resolve": "global",
+        "bind": "scales",
+        "translate": "[mousedown[!event.shiftKey], window:mouseup] > window:mousemove!",
+        "zoom": "wheel![!event.shiftKey]"
+      }
+    },
+    "encoding": {
+      "x": {"field": {"repeat": "column"}, "type": "quantitative"},
+      "y": {
+        "field": {"repeat": "row"},
+        "type": "quantitative",
+        "axis": {"minExtent": 30}
+      },
+      "color": {
+        "condition": {
+          "selection": "brush",
+          "field": "Continent",
+          "type": "nominal"
+        },
+        "value": "grey"
+      },
+      "tooltip": [
+        {"field": "University Name", "type": "nominal"},
+        {"field": "Country", "type": "nominal"},
+        {"field": "Continent", "type": "nominal"},
+        {"field": "World Rank", "type": "nominal"}
+      ]
+    }
+  },
+  "config": {}
+}
