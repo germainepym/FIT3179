@@ -799,806 +799,6 @@ teaching,14.5,601-800,Yıldız Technical University
 teaching,24,601-800,Yokohama City University
 teaching,20.1,601-800,Yokohama National University
 teaching,16.2,601-800,Yuan Ze University
-research,97.6,1,California Institute of Technology
-research,98.9,2,University of Oxford
-research,96.2,3,Stanford University
-research,96.7,4,University of Cambridge
-research,88.6,5,Massachusetts Institute of Technology
-research,99,6,Harvard University
-research,91.9,7,Princeton University
-research,88.5,8,Imperial College London
-research,95,9,ETH Zurich – Swiss Federal Institute of Technology Zurich
-research,88.9,10,University of Chicago
-research,90.4,11,Johns Hopkins University
-research,87.8,12,Yale University
-research,91.1,13,"University of California, Berkeley"
-research,91,14,University College London
-research,82.2,15,Columbia University
-research,88.6,16,"University of California, Los Angeles"
-research,86.9,17,University of Pennsylvania
-research,86.1,18,Cornell University
-research,89.3,19,University of Toronto
-research,78,20,Duke University
-research,85.2,21,University of Michigan
-research,88.8,22,Carnegie Mellon University
-research,80.6,23,London School of Economics and Political Science
-research,77.2,24,University of Edinburgh
-research,78.4,25,Northwestern University
-research,84.5,26,National University of Singapore
-research,75.8,27,King’s College London
-research,81.1,28,Karolinska Institute
-research,77.4,29,LMU Munich
-research,72.3,30,New York University
-research,67.5,31,École Polytechnique Fédérale de Lausanne
-research,70,32,University of Washington
-research,75.5,33,University of Melbourne
-research,73.2,34,University of British Columbia
-research,76.9,35,KU Leuven
-research,81.2,36,University of Illinois at Urbana-Champaign
-research,69.6,37,Heidelberg University
-research,72.1,38,McGill University
-research,69.8,39,"University of California, San Diego"
-research,66,39,"University of California, Santa Barbara"
-research,72.7,41,Georgia Institute of Technology
-research,72.4,42,Peking University
-research,83,43,University of Tokyo
-research,72.7,44,"University of California, Davis"
-research,72.8,44,University of Hong Kong
-research,69.7,46,University of Texas at Austin
-research,83,47,Tsinghua University
-research,66.9,47,Wageningen University and Research Center
-research,77,49,Humboldt University of Berlin
-research,68.2,50,University of Wisconsin-Madison
-research,55.7,51,Brown University
-research,77.3,52,Australian National University
-research,66,53,Technical University of Munich
-research,47.7,54,École Normale Supérieure
-research,61.3,55,Nanyang Technological University
-research,66,56,University of Manchester
-research,68.1,56,University of Sydney
-research,64.7,58,University of Amsterdam
-research,66.1,59,Hong Kong University of Science and Technology
-research,62.8,60,The University of Queensland
-research,55.6,60,Washington University in St Louis
-research,64.3,62,Utrecht University
-research,54.5,63,University of North Carolina at Chapel Hill
-research,49.5,64,Boston University
-research,73.8,65,Delft University of Technology
-research,61,65,University of Minnesota
-research,63.1,67,Leiden University
-research,58.9,68,University of Southern California
-research,51.6,69,University of Bristol
-research,51.9,70,Durham University
-research,55.2,71,Erasmus University Rotterdam
-research,72.2,72,Free University of Berlin
-research,58.5,73,Monash University
-research,56.9,74,University of Groningen
-research,61.9,75,Pennsylvania State University
-research,48.3,76,University of Glasgow
-research,60.4,76,University of Helsinki
-research,59.8,78,University of Tübingen
-research,50.3,79,University of Pittsburgh
-research,53.1,80,University of Warwick
-research,61,81,Uppsala University
-research,42.7,82,University of Copenhagen
-research,53.9,82,University of New South Wales
-research,51.1,84,University of Freiburg
-research,70.5,85,Seoul National University
-research,47.3,86,University of St Andrews
-research,44.2,87,Vanderbilt University
-research,69.3,88,Kyoto University
-research,47.7,88,Maastricht University
-research,37.1,90,Emory University
-research,53.6,90,Lund University
-research,46.6,90,Ohio State University
-research,40,93,University of Exeter
-research,47.5,94,University of Bonn
-research,39.3,94,Georgetown University
-research,44.8,94,McMaster University
-research,48.8,97,University of Sheffield
-research,41.3,98,Queen Mary University of London
-research,54.5,99,University of Göttingen
-research,52.6,99,Michigan State University
-research,33.1,101,University of Basel
-research,44.6,101,École Polytechnique
-research,35.1,101,Rice University
-research,35.8,104,Dartmouth College
-research,31.5,104,University of Zurich
-research,50.7,106,Aarhus University
-research,41.8,106,"University of California, Irvine"
-research,47.7,106,University of Mannheim
-research,48.1,108,University of Notre Dame
-research,46.1,109,University of Western Australia
-research,56.3,110,RWTH Aachen University
-research,43.6,110,University of Southampton
-research,53.1,112,Scuola Normale Superiore di Pisa
-research,45.5,113,University of Montreal
-research,32.7,113,Pierre and Marie Curie University
-research,57.7,113,Purdue University
-research,47.1,116,Pohang University of Science and Technology
-research,42.1,117,"University of Maryland, College Park"
-research,54.5,118,Ghent University
-research,41.8,119,University of Birmingham
-research,42.5,120,University of Bern
-research,38.7,120,University of Cape Town
-research,56.8,120,University of Florida
-research,39.7,123,University of Erlangen-Nuremberg
-research,55.7,123,"Rutgers, the State University of New Jersey"
-research,44.1,125,University of Münster
-research,48.5,125,Radboud University Nijmegen
-research,37.6,127,University of Colorado Boulder
-research,33.3,127,Tufts University
-research,33.2,129,"Royal Holloway, University of London"
-research,41.4,130,Lancaster University
-research,40.5,131,University of Geneva
-research,46.3,131,University of York
-research,33.2,133,Case Western Reserve University
-research,39,133,University of Leeds
-research,44.7,135,University of Oslo
-research,51.2,136,Stockholm University
-research,48.1,137,University of Alberta
-research,48.5,138,Chinese University of Hong Kong
-research,47.5,138,Karlsruhe Institute of Technology
-research,37.2,140,University of Sussex
-research,36.3,141,University of Massachusetts
-research,50.5,142,University of Vienna
-research,39,143,University of Nottingham
-research,34.2,144,"University of California, Santa Cruz"
-research,45.6,144,University of Lausanne
-research,40,146,Autonomous University of Barcelona
-research,37.5,147,University of Virginia
-research,40.5,148,Korea Advanced Institute of Science and Technology (KAIST)
-research,43.2,149,University of Adelaide
-research,28.7,149,University of East Anglia
-research,45.6,149,University of Twente
-research,53.5,153,Sungkyunkwan University (SKKU)
-research,37.1,154,VU University Amsterdam
-research,44.3,155,KTH Royal Institute of Technology
-research,38,156,University of Cologne
-research,30.9,157,University of Liverpool
-research,45.8,158,TU Dresden
-research,27.9,158,University of Rochester
-research,30.8,160,Trinity College Dublin
-research,66.7,161,Lomonosov Moscow State University
-research,22.3,161,University of Miami
-research,41.8,163,University of Arizona
-research,28,164,Pompeu Fabra University
-research,37.3,164,University of Reading
-research,23.7,164,Yeshiva University
-research,33.3,167,"University of California, Riverside"
-research,27.8,167,University of Leicester
-research,58,167,National Taiwan University
-research,29.9,167,Technical University of Denmark
-research,40.6,167,Université Catholique de Louvain
-research,31.4,172,University of Aberdeen
-research,39.5,172,University of Auckland
-research,37.4,174,University of Barcelona
-research,46.7,175,University of Konstanz
-research,41,176,Eindhoven University of Technology
-research,38.5,176,University College Dublin
-research,41.4,178,Hebrew University of Jerusalem
-research,43.9,179,University of Waterloo
-research,39.8,180,University of Gothenburg
-research,23.2,180,Scuola Superiore Sant’Anna
-research,31.5,182,University of Bergen
-research,31.6,182,Cardiff University
-research,35.3,182,University of Utah
-research,25.7,185,Brandeis University
-research,26.9,185,University of Dundee
-research,35.8,185,University of Würzburg
-research,29,188,Paris-Sud University
-research,38.1,189,Arizona State University
-research,40.8,190,University of Antwerp
-research,29.3,190,Boston College
-research,23.9,192,Ulm University
-research,26.7,193,University of Luxembourg
-research,52.4,193,Texas A&M University
-research,22.2,195,Charité - Universitätsmedizin Berlin
-research,27.5,196,Newcastle University
-research,18.1,196,"St George’s, University of London"
-research,27.4,198,University of Trento
-research,22.9,199,Paris Diderot University – Paris 7
-research,33.3,200,Queen’s University Belfast
-research,28.4,201-250,Aalborg University
-research,35.1,201-250,"Birkbeck, University of London"
-research,29.5,201-250,University of Bologna
-research,37.9,201-250,University at Buffalo
-research,36.7,201-250,University of Calgary
-research,35.3,201-250,Chalmers University of Technology
-research,26.7,201-250,City University of Hong Kong
-research,26.5,201-250,Copenhagen Business School
-research,29.4,201-250,Dalhousie University
-research,27,201-250,University of Duisburg-Essen
-research,30,201-250,École Normale Supérieure de Lyon
-research,40.1,201-250,Florida State University
-research,32.9,201-250,University of Fribourg
-research,30.4,201-250,Fudan University
-research,23.5,201-250,George Washington University
-research,28.6,201-250,Goethe University Frankfurt
-research,35.5,201-250,University of Hawai’i at Mānoa
-research,35.2,201-250,Hong Kong Polytechnic University
-research,29.2,201-250,University of Illinois at Chicago
-research,27.3,201-250,Indiana University
-research,26.7,201-250,University of Iowa
-research,21.7,201-250,Johannes Gutenberg University of Mainz
-research,21.6,201-250,Joseph Fourier University
-research,20.5,201-250,University of Kiel
-research,31.7,201-250,Laval University
-research,14.6,201-250,Medical University of Vienna
-research,20.6,201-250,Northeastern University
-research,15.7,201-250,Oregon Health and Science University
-research,30.5,201-250,University of Otago
-research,36.7,201-250,University of Ottawa
-research,28.8,201-250,Paris Descartes University
-research,17.8,201-250,Peter the Great St Petersburg Polytechnic University
-research,31.7,201-250,Polytechnic University of Milan
-research,27.8,201-250,Royal Veterinary College
-research,17.4,201-250,Rush University
-research,37.3,201-250,Sapienza University of Rome
-research,36.6,201-250,University of Science and Technology of China
-research,35.7,201-250,University of South Florida
-research,22,201-250,Stony Brook University
-research,44.5,201-250,University of Stuttgart
-research,32.8,201-250,Swedish University of Agricultural Sciences
-research,43.2,201-250,Technical University of Darmstadt
-research,35.1,201-250,University of Technology Sydney
-research,50.5,201-250,Tel Aviv University
-research,26.7,201-250,University of Texas at Dallas
-research,47.1,201-250,Tilburg University
-research,42.7,201-250,Tohoku University
-research,47.6,201-250,Tokyo Institute of Technology
-research,30,201-250,University of Victoria
-research,19.5,201-250,Wake Forest University
-research,32.4,201-250,University of Western Ontario
-research,17.5,201-250,William & Mary
-research,31.5,201-250,University of the Witwatersrand
-research,32.8,251-300,Aalto University
-research,22.1,251-300,Aix-Marseille University
-research,27.9,251-300,University of Bath
-research,31.2,251-300,Bayreuth University
-research,46.2,251-300,Bielefeld University
-research,22,251-300,University of Bordeaux
-research,22.6,251-300,Charles Darwin University
-research,30.3,251-300,Colorado School of Mines
-research,33,251-300,Colorado State University
-research,34,251-300,University of Delaware
-research,25.7,251-300,Flinders University
-research,30.5,251-300,University of Georgia
-research,25.2,251-300,Griffith University
-research,16.2,251-300,University of Iceland
-research,47.2,251-300,Indian Institute of Science
-research,29.4,251-300,Iowa State University
-research,22.8,251-300,James Cook University
-research,33.9,251-300,Justus Liebig University Giessen
-research,11.8,251-300,King Abdulaziz University
-research,27.1,251-300,Koç University
-research,43.4,251-300,Korea University
-research,36.6,251-300,University of Liège
-research,18.9,251-300,Linköping University
-research,32.2,251-300,Nanjing University
-research,36.6,251-300,National Tsing Hua University
-research,25.4,251-300,"National University of Ireland, Galway"
-research,26.5,251-300,University of Newcastle
-research,30.5,251-300,North Carolina State University
-research,28.5,251-300,Oregon State University
-research,45.2,251-300,Osaka University
-research,35.8,251-300,Queen’s University
-research,35.6,251-300,Queensland University of Technology
-research,31.5,251-300,Rensselaer Polytechnic Institute
-research,20.1,251-300,Royal College of Surgeons in Ireland
-research,30,251-300,Ruhr University Bochum
-research,10.9,251-300,Saint Louis University
-research,57.1,251-300,University of São Paulo
-research,29.2,251-300,Simon Fraser University
-research,28.9,251-300,University of Surrey
-research,20.8,251-300,Syracuse University
-research,25.7,251-300,University of Tasmania
-research,23.2,251-300,"University of Tennessee, Knoxville"
-research,15.1,251-300,Tomsk Polytechnic University
-research,19.3,251-300,Tulane University
-research,25,251-300,Umeå University
-research,32,251-300,Vienna University of Technology
-research,38.2,251-300,Virginia Polytechnic Institute and State University
-research,28.4,251-300,University of Wollongong
-research,46,251-300,Zhejiang University
-research,18.9,301-350,Aberystwyth University
-research,23.1,301-350,University of Alaska Fairbanks
-research,30.9,301-350,Autonomous University of Madrid
-research,22.1,301-350,Bangor University
-research,32.7,301-350,University of Bremen
-research,20.4,301-350,University of Cincinnati
-research,25.6,301-350,University of Connecticut
-research,21.9,301-350,Deakin University
-research,33.3,301-350,University of Essex
-research,21.2,301-350,George Mason University
-research,23.5,301-350,University of Greifswald
-research,42,301-350,Gwangju Institute of Science and Technology
-research,33.8,301-350,University of Hohenheim
-research,16.9,301-350,University of Innsbruck
-research,12.3,301-350,Kazan Federal University
-research,19.1,301-350,University of Kent
-research,36.9,301-350,Leibniz University of Hanover
-research,27.2,301-350,Macquarie University
-research,12.1,301-350,Medical College of Wisconsin
-research,24.2,301-350,University of Milan
-research,25.5,301-350,University of Milan-Bicocca
-research,16.7,301-350,Montpellier University
-research,38.9,301-350,Nagoya University
-research,14.8,301-350,University of Naples Federico II
-research,45.4,301-350,National Chiao Tung University
-research,24.1,301-350,National Research Nuclear University MePhI
-research,43.1,301-350,National Taiwan University of Science and Technology (Taiwan Tech)
-research,20.8,301-350,University of Navarra
-research,30.2,301-350,University of Nebraska-Lincoln
-research,10.4,301-350,Örebro University
-research,22.7,301-350,University of Oregon
-research,22.6,301-350,University of Padua
-research,22.5,301-350,University of Pavia
-research,18,301-350,Plymouth University
-research,45.2,301-350,Shanghai Jiao Tong University
-research,14.7,301-350,University of Southern Denmark
-research,35,301-350,Stellenbosch University
-research,23.4,301-350,University of Strasbourg
-research,29.8,301-350,Technical University of Dortmund
-research,33.3,301-350,Technion Israel Institute of Technology
-research,35.7,301-350,Toulouse 1 Capitole University
-research,18.5,301-350,University of Trieste
-research,22.3,301-350,University of Turin
-research,21.2,301-350,University of Turku
-research,24.5,301-350,Vrije Universiteit Brussel
-research,15.7,301-350,VŠB - Technical University of Ostrava
-research,34.1,301-350,Yonsei University
-research,30.8,301-350,York University
-research,17.5,351-400,Bilkent University
-research,17.4,351-400,"Binghamton University, State University of New York"
-research,19.2,351-400,University of Crete
-research,28.5,351-400,University of Cyprus
-research,14.6,351-400,Drexel University
-research,20.7,351-400,University of Eastern Finland
-research,20.4,351-400,University of Florence
-research,11.2,351-400,University of St Gallen
-research,15.8,351-400,Graz University of Technology
-research,34.2,351-400,University of Guelph
-research,32.6,351-400,Hanyang University
-research,12.1,351-400,Hong Kong Baptist University
-research,26.5,351-400,University of Houston
-research,28.6,351-400,Indian Institute of Technology Bombay
-research,25,351-400,Instituto Superior Técnico Lisboa
-research,25.5,351-400,University of Jyväskylä
-research,28.5,351-400,La Trobe University
-research,32.2,351-400,Loughborough University
-research,26.9,351-400,University of Manitoba
-research,21,351-400,University of Missouri
-research,15.6,351-400,University of Modena and Reggio Emilia
-research,13.6,351-400,University of Montana
-research,22.8,351-400,"National University of Ireland, Maynooth"
-research,13.3,351-400,University of Nebraska Medical Center
-research,15.4,351-400,University of New Mexico
-research,25.8,351-400,Norwegian University of Science and Technology
-research,15.9,351-400,University of Oulu
-research,47.6,351-400,Panthéon-Sorbonne University – Paris 1
-research,18.6,351-400,Polytechnic University of Turin
-research,21,351-400,University of Rome III
-research,32.3,351-400,Sabancı University
-research,27,351-400,San Diego State University
-research,26.7,351-400,University of South Australia
-research,21.5,351-400,University of South Carolina
-research,12.1,351-400,University of South Dakota
-research,42.3,351-400,State University of Campinas
-research,23.5,351-400,University of Stirling
-research,24.6,351-400,Sun Yat-sen University
-research,23.8,351-400,Swansea University
-research,20.2,351-400,Swinburne University of Technology
-research,22.8,351-400,University of Tartu
-research,18.2,351-400,Temple University
-research,16.6,351-400,University of Texas at San Antonio
-research,18.7,351-400,UiT The Arctic University of Norway
-research,28.3,351-400,Université Libre de Bruxelles
-research,9.5,351-400,Lille 2 University – Health and Law
-research,23.8,351-400,University College Cork
-research,13.1,351-400,Verona University
-research,28.7,351-400,Victoria University of Wellington
-research,28.2,351-400,Washington State University
-research,14.2,351-400,Wayne State University
-research,16.5,401-500,American University
-research,20.4,401-500,Aston University
-research,26.5,401-500,University of Aveiro
-research,21.6,401-500,University of Bari Aldo Moro
-research,21.3,401-500,Bar-Ilan University
-research,12.6,401-500,Bournemouth University
-research,14.8,401-500,University of Brescia
-research,14.7,401-500,Brno University of Technology
-research,23.3,401-500,Brunel University London
-research,27.8,401-500,Ca’ Foscari University of Venice
-research,13.2,401-500,University of Cagliari
-research,22.5,401-500,University of Canterbury
-research,11.3,401-500,Catholic University of the Sacred Heart
-research,21.5,401-500,Charles University in Prague
-research,29.4,401-500,"China Medical University, Taiwan"
-research,21.2,401-500,City University London
-research,13.2,401-500,Claude Bernard University Lyon 1
-research,26.5,401-500,University of Coimbra
-research,27.6,401-500,Complutense University of Madrid
-research,23.4,401-500,Concordia University
-research,20.2,401-500,Curtin University
-research,25.2,401-500,Dublin City University
-research,17.1,401-500,East China University of Science and Technology
-research,18.3,401-500,Ewha Womans University
-research,10.1,401-500,Federico Santa María Technical University
-research,17.2,401-500,University of Ferrara
-research,18.1,401-500,Florida International University
-research,14.2,401-500,University of Genoa
-research,19.5,401-500,Georgia State University
-research,16.3,401-500,University of Graz
-research,22.4,401-500,Heriot-Watt University
-research,32.8,401-500,Hokkaido University
-research,11,401-500,Howard University
-research,16.1,401-500,University of Hull
-research,19.4,401-500,University of Idaho
-research,25.8,401-500,Indian Institute of Technology Delhi
-research,30.5,401-500,Indian Institute of Technology Kharagpur
-research,20.7,401-500,Indian Institute of Technology Madras
-research,17.7,401-500,University of Ioannina
-research,26,401-500,Iran University of Science and Technology
-research,13.8,401-500,Johannes Kepler University of Linz
-research,22.6,401-500,University of Kaiserslautern
-research,17.6,401-500,Keele University
-research,25.7,401-500,University of KwaZulu-Natal
-research,27.6,401-500,Kyung Hee University
-research,27.5,401-500,Kyushu University
-research,15,401-500,Lehigh University
-research,27.7,401-500,Louisiana State University
-research,17,401-500,University of Macau
-research,10.6,401-500,Makerere University
-research,11,401-500,Marche Polytechnic University
-research,18.2,401-500,"University of Maryland, Baltimore County"
-research,19.6,401-500,Murdoch University
-research,12.2,401-500,University of Nantes
-research,16.3,401-500,National and Kapodistrian University of Athens
-research,40.2,401-500,National Autonomous University of Mexico
-research,40.2,401-500,National Cheng Kung University
-research,10.6,401-500,National Institute of Applied Sciences of Lyon (INSA Lyon)
-research,18.5,401-500,National Yang-Ming University
-research,14.7,401-500,University of Neuchâtel
-research,21.9,401-500,New University of Lisbon
-research,16.1,401-500,University of Nice Sophia Antipolis
-research,30.8,401-500,Novosibirsk State University
-research,13.8,401-500,The Open University
-research,18.8,401-500,Oxford Brookes University
-research,9.1,401-500,University of Palermo
-research,16.6,401-500,University of Parma
-research,18.9,401-500,University of Pisa
-research,14.8,401-500,Polytechnic University of Catalonia
-research,21.3,401-500,Pontifical Catholic University of Chile
-research,28.2,401-500,University of Porto
-research,10.9,401-500,University of Portsmouth
-research,17.7,401-500,RMIT University
-research,17.2,401-500,University of Rome II – Tor Vergata
-research,14.8,401-500,University of Rovira i Virgili
-research,31.4,401-500,Saint Petersburg State University
-research,13.2,401-500,University of Salento
-research,12.9,401-500,University of San Francisco
-research,22.4,401-500,University of Saskatchewan
-research,30.1,401-500,Sharif University of Technology
-research,17.8,401-500,University of Siena
-research,18.3,401-500,Southern Cross University
-research,35.3,401-500,State University of New York Albany
-research,28,401-500,University of Strathclyde
-research,13.7,401-500,University of Tampere
-research,17.2,401-500,Tampere University of Technology
-research,18.3,401-500,Tokyo Medical and Dental University (TMDU)
-research,11.4,401-500,Tokyo Metropolitan University
-research,30,401-500,University of Tsukuba
-research,20.5,401-500,University of Ulsan
-research,13.2,401-500,Ulster University
-research,24.5,401-500,Université du Québec à Montréal
-research,14.6,401-500,Universiti Teknologi Malaysia
-research,8.7,401-500,University of Urbino Carlo Bo
-research,16.9,401-500,University of Valencia
-research,18.2,401-500,University of Waikato
-research,24.6,401-500,Western Sydney University
-research,26.8,401-500,Wuhan University
-research,15.6,401-500,Xiamen University
-research,11.2,501-600,American University of Beirut
-research,25.7,501-600,Amirkabir University of Technology
-research,13.8,501-600,"University of the Andes, Colombia"
-research,17.4,501-600,University of Arkansas
-research,19.4,501-600,Auburn University
-research,12.5,501-600,Babeş-Bolyai University
-research,11.9,501-600,University of the Basque Country
-research,23.7,501-600,Bauman Moscow State Technical University
-research,21.3,501-600,Ben-Gurion University of the Negev
-research,2.9,501-600,Blaise Pascal University
-research,17.2,501-600,Boğaziçi University
-research,8.8,501-600,University of Burgundy
-research,19.3,501-600,University of Canberra
-research,24,501-600,Carleton University
-research,15.9,501-600,University of Catania
-research,11.4,501-600,Central Queensland University
-research,19.6,501-600,University of Chile
-research,24.9,501-600,China Agricultural University
-research,27.6,501-600,Chung-Ang University
-research,9.3,501-600,Czech Technical University in Prague
-research,10.1,501-600,De Montfort University
-research,14.7,501-600,East China Normal University
-research,16.1,501-600,Edith Cowan University
-research,19.7,501-600,Federal University of Rio de Janeiro
-research,14.7,501-600,University of Granada
-research,29.5,501-600,University of Haifa
-research,27.3,501-600,Harbin Institute of Technology
-research,9.5,501-600,University of Hertfordshire
-research,18.9,501-600,Hiroshima University
-research,22.7,501-600,Huazhong University of Science and Technology
-research,20.7,501-600,Indian Institute of Technology Guwahati
-research,15,501-600,Indian Institute of Technology Kanpur
-research,17.5,501-600,Indian Institute of Technology Roorkee
-research,23,501-600,Isfahan University of Technology
-research,25.8,501-600,Istanbul Technical University
-research,22.2,501-600,Jadavpur University
-research,14.8,501-600,Kanazawa University
-research,17.5,501-600,Kansas State University
-research,17.5,501-600,Keio University
-research,14.2,501-600,Kent State University
-research,16.1,501-600,King Fahd University of Petroleum and Minerals
-research,17.5,501-600,King Saud University
-research,10,501-600,University of La Laguna
-research,27.5,501-600,Lappeenranta University of Technology
-research,16.3,501-600,University of Limerick
-research,18.3,501-600,University of Lisbon
-research,11.6,501-600,Liverpool John Moores University
-research,15.1,501-600,Mahidol University
-research,10.6,501-600,Manchester Metropolitan University
-research,11.5,501-600,University of Maribor
-research,22.9,501-600,Masaryk University
-research,17.1,501-600,Massey University
-research,15.8,501-600,Memorial University of Newfoundland
-research,17.3,501-600,Middle East Technical University
-research,20.1,501-600,University of Minho
-research,18.4,501-600,Missouri University of Science and Technology
-research,21.8,501-600,Montana State University
-research,12.7,501-600,Monterrey Institute of Technology and Higher Education
-research,23.2,501-600,National Central University
-research,33,501-600,National Sun Yat-Sen University
-research,31.3,501-600,National Taiwan Normal University
-research,15,501-600,National Technical University of Athens
-research,16.6,501-600,New Jersey Institute of Technology
-research,19.2,501-600,New Mexico State University
-research,15.3,501-600,University of North Carolina at Greensboro
-research,22.7,501-600,Oklahoma State University
-research,13.4,501-600,Osaka City University
-research,14.4,501-600,Otto von Guericke University of Magdeburg
-research,10.8,501-600,University of Oviedo
-research,11.8,501-600,Palacký University in Olomouc
-research,8.8,501-600,Panjab University
-research,11.1,501-600,Paris Dauphine University
-research,24.1,501-600,Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
-research,14.4,501-600,Portland State University
-research,21.2,501-600,University of Pretoria
-research,24.7,501-600,Pusan National University
-research,9.9,501-600,Quaid-i-azam University
-research,15.8,501-600,University of Regina
-research,13.7,501-600,Renmin University of China
-research,10.3,501-600,University of Rennes 1
-research,16.9,501-600,University of Salamanca
-research,14.1,501-600,University of Santiago de Compostela
-research,10.6,501-600,Semmelweis University
-research,14.9,501-600,University of Seville
-research,9.5,501-600,Université de Sherbrooke
-research,13.7,501-600,Soochow University
-research,22.1,501-600,South China University of Technology
-research,15,501-600,Tallinn University of Technology
-research,20,501-600,Tehran University of Medical Sciences
-research,10.1,501-600,University of Texas at Arlington
-research,34.4,501-600,Tianjin University
-research,24.1,501-600,Tokyo University of Agriculture and Technology
-research,13.4,501-600,University of Toledo
-research,29.2,501-600,Tongji University
-research,12.9,501-600,University of Tulsa
-research,14.8,501-600,United Arab Emirates University
-research,15.8,501-600,University of Warsaw
-research,13.8,501-600,University of Wisconsin-Milwaukee
-research,22.5,501-600,Xi’an Jiaotong University
-research,12.7,501-600,University of Zaragoza
-research,10,601-800,University of A Coruña
-research,11,601-800,Adam Mickiewicz University
-research,3.7,601-800,AGH University of Science and Technology
-research,11.9,601-800,Ajou University
-research,11.2,601-800,University of Alcalá
-research,8.2,601-800,Alexandria University
-research,13.6,601-800,Alexandru Ioan Cuza University
-research,10,601-800,Aligarh Muslim University
-research,10.6,601-800,American University of Sharjah
-research,5.8,601-800,Amrita University
-research,22.6,601-800,Anadolu University
-research,6.9,601-800,Andhra University
-research,21.1,601-800,University of Antioquia
-research,15,601-800,Aristotle University of Thessaloniki
-research,15.9,601-800,"Asia University, Taiwan"
-research,18.8,601-800,Athens University of Economics and Business
-research,9.8,601-800,Auckland University of Technology
-research,9.7,601-800,Austral University of Chile
-research,21.7,601-800,Beijing Institute of Technology
-research,8.7,601-800,Belarusian State University
-research,13.2,601-800,University of Belgrade
-research,8.3,601-800,"Birla Institute of Technology and Science, Pilani"
-research,15.9,601-800,University of Bradford
-research,7.4,601-800,University of Brasília
-research,10.7,601-800,University of Brighton
-research,11.5,601-800,University of Bucharest
-research,13.7,601-800,Budapest University of Technology and Economics
-research,11.1,601-800,Cairo University
-research,8.7,601-800,University of Calcutta
-research,10.4,601-800,"California State University, Long Beach"
-research,14.9,601-800,Capital Medical University
-research,10.3,601-800,University of Castilla-La Mancha
-research,9.4,601-800,University of Central Lancashire
-research,6.3,601-800,University of Cergy-Pontoise
-research,24.7,601-800,Chang Gung University
-research,17.4,601-800,Carlos III University of Madrid
-research,12,601-800,"University of Chemistry and Technology, Prague"
-research,9.4,601-800,Chiang Mai University
-research,16.8,601-800,Chiba University
-research,21.4,601-800,China University of Geosciences (Wuhan)
-research,26.6,601-800,China University of Petroleum (Beijing)
-research,14.7,601-800,Chonbuk National University
-research,15.5,601-800,Chongqing University
-research,11.7,601-800,Chonnam National University
-research,14.1,601-800,Chulalongkorn University
-research,22.1,601-800,Chung Yuan Christian University
-research,17.7,601-800,Chungnam National University
-research,19.7,601-800,Clemson University
-research,10.3,601-800,Comenius University in Bratislava
-research,7.7,601-800,Coventry University
-research,19,601-800,Dalian University of Technology
-research,11.4,601-800,University of Debrecen
-research,10.8,601-800,University of Delhi
-research,7.2,601-800,University of Dhaka
-research,8.8,601-800,Dublin Institute of Technology
-research,11.3,601-800,Ehime University
-research,12.9,601-800,University of Electronic Science and Technology of China
-research,12.1,601-800,Eötvös Loránd University
-research,10.9,601-800,Erciyes University
-research,8.1,601-800,Federal University of Bahia
-research,15.4,601-800,Federal University of Minas Gerais
-research,9.6,601-800,Federal University of Paraná (UFPR)
-research,13.7,601-800,Federal University of Rio Grande do Sul
-research,12.2,601-800,Federal University of Santa Catarina
-research,10.8,601-800,Federal University of São Carlos
-research,14.5,601-800,Federal University of Viçosa
-research,16.4,601-800,Federal University of Lavras
-research,13.7,601-800,Feng Chia University
-research,13.5,601-800,Florida Institute of Technology
-research,9.8,601-800,Fu Jen Catholic University
-research,9.5,601-800,Gdańsk University of Technology
-research,15.6,601-800,University of Ghana
-research,16.9,601-800,Gifu University
-research,10.4,601-800,Glasgow Caledonian University
-research,9.5,601-800,University of Greenwich
-research,11.8,601-800,Hacettepe University
-research,5.4,601-800,University of Huddersfield
-research,15,601-800,Hunan University
-research,11.1,601-800,University of Ibadan
-research,8,601-800,University of Indonesia
-research,20,601-800,Inha University
-research,11.5,601-800,I-Shou University
-research,23.3,601-800,Istanbul University
-research,14.4,601-800,Jagiellonian University
-research,14.4,601-800,Jilin University
-research,7.7,601-800,University of Jordan
-research,6.2,601-800,Jordan University of Science and Technology
-research,10.5,601-800,Juntendo University
-research,18.1,601-800,K.N. Toosi University of Technology
-research,22.2,601-800,Kaohsiung Medical University
-research,7.4,601-800,Khon Kaen University
-research,11.4,601-800,King Mongkut’s University of Technology Thonburi
-research,12.1,601-800,Kingston University
-research,7.9,601-800,Kinki University
-research,15.4,601-800,Kobe University
-research,19.6,601-800,Konkuk University
-research,11.6,601-800,Kumamoto University
-research,16,601-800,Kyungpook National University
-research,12.5,601-800,Kyushu Institute of Technology
-research,10.2,601-800,University of Latvia
-research,8.6,601-800,Lille 1 University – Science and Technology
-research,11.9,601-800,University of Lincoln
-research,13.6,601-800,University of Ljubljana
-research,6.3,601-800,University of Marrakech Cadi Ayyad
-research,15.7,601-800,Miami University
-research,10.6,601-800,Middlesex University
-research,16.3,601-800,Moscow Institute of Physics and Technology
-research,11.7,601-800,University of Murcia
-research,10.8,601-800,Nagasaki University
-research,9,601-800,University of Nairobi
-research,12.5,601-800,National Chengchi University
-research,20.3,601-800,National Chung Cheng University
-research,16.8,601-800,National Chung Hsing University
-research,14.6,601-800,National Taipei University of Technology
-research,21,601-800,National Taiwan Ocean University
-research,9,601-800,National University of Córdoba
-research,17.5,601-800,National University of Science and Technology (MISiS)
-research,7,601-800,National University of Sciences and Technology
-research,10.1,601-800,Niigata University
-research,10.9,601-800,Northumbria University
-research,15.4,601-800,Northwestern Polytechnical University
-research,8.9,601-800,Nottingham Trent University
-research,11.9,601-800,Oakland University
-research,10.7,601-800,Ocean University of China
-research,14.9,601-800,Ohio University
-research,14.9,601-800,Okayama University
-research,10.2,601-800,Osaka Prefecture University
-research,11.9,601-800,University of Pardubice
-research,11.6,601-800,University of Paris North – Paris 13
-research,21.3,601-800,Paris-Sorbonne University – Paris 4
-research,12.1,601-800,University of Patras
-research,9,601-800,University of Pécs
-research,12.7,601-800,Polytechnic University of Valencia
-research,6.5,601-800,Pontifical Catholic University of Paraná
-research,10.9,601-800,Pontifical Catholic University of Rio Grande do Sul (PUCRS)
-research,8,601-800,Pontifical Catholic University of Valparaíso
-research,7,601-800,Prince of Songkla University
-research,10.3,601-800,Qatar University
-research,9.1,601-800,Rio de Janeiro State University (UERJ)
-research,13.4,601-800,Rochester Institute of Technology
-research,9.6,601-800,Saitama University
-research,12.1,601-800,University of Salford
-research,11.3,601-800,"University of Santiago, Chile (USACH)"
-research,22.6,601-800,São Paulo State University (UNESP)
-research,12.4,601-800,Savitribai Phule Pune University
-research,22.4,601-800,University of Science and Technology Beijing
-research,12.2,601-800,Sejong University
-research,17.5,601-800,University of Seoul
-research,19,601-800,Shahid Beheshti University
-research,16.1,601-800,Shanghai University
-research,9.1,601-800,Shantou University
-research,9.4,601-800,Sheffield Hallam University
-research,8.3,601-800,Shinshu University
-research,7.9,601-800,Showa University
-research,18.4,601-800,Sichuan University
-research,8,601-800,University of Silesia in Katowice
-research,8.6,601-800,Slovak University of Technology in Bratislava
-research,24.8,601-800,Sogang University
-research,9.4,601-800,Sophia University
-research,11.3,601-800,University of South Africa
-research,8.2,601-800,Southern Federal University
-research,11.8,601-800,University of Southern Mississippi
-research,13.1,601-800,University of Southern Queensland
-research,5.9,601-800,Suez Canal University
-research,10.6,601-800,Sultan Qaboos University
-research,11.6,601-800,Suranaree University of Technology
-research,10.5,601-800,University of Szeged
-research,21.7,601-800,Taipei Medical University
-research,11,601-800,Taras Shevchenko National University of Kyiv
-research,14.6,601-800,Technical University of Madrid
-research,16.9,601-800,University of Tehran
-research,18.7,601-800,University of Texas at El Paso
-research,17.2,601-800,Texas Tech University
-research,7.6,601-800,Tokai University
-research,21.6,601-800,Tokushima University
-research,12.4,601-800,Tokyo University of Marine Science and Technology
-research,24.1,601-800,Tokyo University of Science
-research,20.8,601-800,Tomsk State University
-research,10.1,601-800,Tottori University
-research,18.9,601-800,Toyohashi University of Technology
-research,15.9,601-800,Universiti Kebangsaan Malaysia
-research,20.9,601-800,Universiti Putra Malaysia
-research,16.6,601-800,Universiti Sains Malaysia
-research,7.7,601-800,Universiti Teknologi MARA
-research,10.6,601-800,Ural Federal University
-research,8.9,601-800,V.N. Karazin Kharkiv National University
-research,10.5,601-800,University of Vigo
-research,13.6,601-800,Vilnius University
-research,8.5,601-800,Warsaw University of Technology
-research,14.6,601-800,Waseda University
-research,9.7,601-800,University of West Bohemia
-research,11.2,601-800,University of the West of England
-research,3.9,601-800,West University of Timişoara
-research,11.7,601-800,University of Westminster
-research,12.1,601-800,Xidian University
-research,10.9,601-800,Yeungnam University
-research,7.6,601-800,Yıldız Technical University
-research,10.2,601-800,Yokohama City University
-research,16,601-800,Yokohama National University
-research,18.3,601-800,Yuan Ze University
 citations,99.8,1,California Institute of Technology
 citations,98.8,2,University of Oxford
 citations,99.9,3,Stanford University
@@ -3962,3 +3162,803 @@ income,44,601-800,Yıldız Technical University
 income,37.9,601-800,Yokohama City University
 income,40.4,601-800,Yokohama National University
 income,39.8,601-800,Yuan Ze University
+research,97.6,1,California Institute of Technology
+research,98.9,2,University of Oxford
+research,96.2,3,Stanford University
+research,96.7,4,University of Cambridge
+research,88.6,5,Massachusetts Institute of Technology
+research,99,6,Harvard University
+research,91.9,7,Princeton University
+research,88.5,8,Imperial College London
+research,95,9,ETH Zurich – Swiss Federal Institute of Technology Zurich
+research,88.9,10,University of Chicago
+research,90.4,11,Johns Hopkins University
+research,87.8,12,Yale University
+research,91.1,13,"University of California, Berkeley"
+research,91,14,University College London
+research,82.2,15,Columbia University
+research,88.6,16,"University of California, Los Angeles"
+research,86.9,17,University of Pennsylvania
+research,86.1,18,Cornell University
+research,89.3,19,University of Toronto
+research,78,20,Duke University
+research,85.2,21,University of Michigan
+research,88.8,22,Carnegie Mellon University
+research,80.6,23,London School of Economics and Political Science
+research,77.2,24,University of Edinburgh
+research,78.4,25,Northwestern University
+research,84.5,26,National University of Singapore
+research,75.8,27,King’s College London
+research,81.1,28,Karolinska Institute
+research,77.4,29,LMU Munich
+research,72.3,30,New York University
+research,67.5,31,École Polytechnique Fédérale de Lausanne
+research,70,32,University of Washington
+research,75.5,33,University of Melbourne
+research,73.2,34,University of British Columbia
+research,76.9,35,KU Leuven
+research,81.2,36,University of Illinois at Urbana-Champaign
+research,69.6,37,Heidelberg University
+research,72.1,38,McGill University
+research,69.8,39,"University of California, San Diego"
+research,66,39,"University of California, Santa Barbara"
+research,72.7,41,Georgia Institute of Technology
+research,72.4,42,Peking University
+research,83,43,University of Tokyo
+research,72.7,44,"University of California, Davis"
+research,72.8,44,University of Hong Kong
+research,69.7,46,University of Texas at Austin
+research,83,47,Tsinghua University
+research,66.9,47,Wageningen University and Research Center
+research,77,49,Humboldt University of Berlin
+research,68.2,50,University of Wisconsin-Madison
+research,55.7,51,Brown University
+research,77.3,52,Australian National University
+research,66,53,Technical University of Munich
+research,47.7,54,École Normale Supérieure
+research,61.3,55,Nanyang Technological University
+research,66,56,University of Manchester
+research,68.1,56,University of Sydney
+research,64.7,58,University of Amsterdam
+research,66.1,59,Hong Kong University of Science and Technology
+research,62.8,60,The University of Queensland
+research,55.6,60,Washington University in St Louis
+research,64.3,62,Utrecht University
+research,54.5,63,University of North Carolina at Chapel Hill
+research,49.5,64,Boston University
+research,73.8,65,Delft University of Technology
+research,61,65,University of Minnesota
+research,63.1,67,Leiden University
+research,58.9,68,University of Southern California
+research,51.6,69,University of Bristol
+research,51.9,70,Durham University
+research,55.2,71,Erasmus University Rotterdam
+research,72.2,72,Free University of Berlin
+research,58.5,73,Monash University
+research,56.9,74,University of Groningen
+research,61.9,75,Pennsylvania State University
+research,48.3,76,University of Glasgow
+research,60.4,76,University of Helsinki
+research,59.8,78,University of Tübingen
+research,50.3,79,University of Pittsburgh
+research,53.1,80,University of Warwick
+research,61,81,Uppsala University
+research,42.7,82,University of Copenhagen
+research,53.9,82,University of New South Wales
+research,51.1,84,University of Freiburg
+research,70.5,85,Seoul National University
+research,47.3,86,University of St Andrews
+research,44.2,87,Vanderbilt University
+research,69.3,88,Kyoto University
+research,47.7,88,Maastricht University
+research,37.1,90,Emory University
+research,53.6,90,Lund University
+research,46.6,90,Ohio State University
+research,40,93,University of Exeter
+research,47.5,94,University of Bonn
+research,39.3,94,Georgetown University
+research,44.8,94,McMaster University
+research,48.8,97,University of Sheffield
+research,41.3,98,Queen Mary University of London
+research,54.5,99,University of Göttingen
+research,52.6,99,Michigan State University
+research,33.1,101,University of Basel
+research,44.6,101,École Polytechnique
+research,35.1,101,Rice University
+research,35.8,104,Dartmouth College
+research,31.5,104,University of Zurich
+research,50.7,106,Aarhus University
+research,41.8,106,"University of California, Irvine"
+research,47.7,106,University of Mannheim
+research,48.1,108,University of Notre Dame
+research,46.1,109,University of Western Australia
+research,56.3,110,RWTH Aachen University
+research,43.6,110,University of Southampton
+research,53.1,112,Scuola Normale Superiore di Pisa
+research,45.5,113,University of Montreal
+research,32.7,113,Pierre and Marie Curie University
+research,57.7,113,Purdue University
+research,47.1,116,Pohang University of Science and Technology
+research,42.1,117,"University of Maryland, College Park"
+research,54.5,118,Ghent University
+research,41.8,119,University of Birmingham
+research,42.5,120,University of Bern
+research,38.7,120,University of Cape Town
+research,56.8,120,University of Florida
+research,39.7,123,University of Erlangen-Nuremberg
+research,55.7,123,"Rutgers, the State University of New Jersey"
+research,44.1,125,University of Münster
+research,48.5,125,Radboud University Nijmegen
+research,37.6,127,University of Colorado Boulder
+research,33.3,127,Tufts University
+research,33.2,129,"Royal Holloway, University of London"
+research,41.4,130,Lancaster University
+research,40.5,131,University of Geneva
+research,46.3,131,University of York
+research,33.2,133,Case Western Reserve University
+research,39,133,University of Leeds
+research,44.7,135,University of Oslo
+research,51.2,136,Stockholm University
+research,48.1,137,University of Alberta
+research,48.5,138,Chinese University of Hong Kong
+research,47.5,138,Karlsruhe Institute of Technology
+research,37.2,140,University of Sussex
+research,36.3,141,University of Massachusetts
+research,50.5,142,University of Vienna
+research,39,143,University of Nottingham
+research,34.2,144,"University of California, Santa Cruz"
+research,45.6,144,University of Lausanne
+research,40,146,Autonomous University of Barcelona
+research,37.5,147,University of Virginia
+research,40.5,148,Korea Advanced Institute of Science and Technology (KAIST)
+research,43.2,149,University of Adelaide
+research,28.7,149,University of East Anglia
+research,45.6,149,University of Twente
+research,53.5,153,Sungkyunkwan University (SKKU)
+research,37.1,154,VU University Amsterdam
+research,44.3,155,KTH Royal Institute of Technology
+research,38,156,University of Cologne
+research,30.9,157,University of Liverpool
+research,45.8,158,TU Dresden
+research,27.9,158,University of Rochester
+research,30.8,160,Trinity College Dublin
+research,66.7,161,Lomonosov Moscow State University
+research,22.3,161,University of Miami
+research,41.8,163,University of Arizona
+research,28,164,Pompeu Fabra University
+research,37.3,164,University of Reading
+research,23.7,164,Yeshiva University
+research,33.3,167,"University of California, Riverside"
+research,27.8,167,University of Leicester
+research,58,167,National Taiwan University
+research,29.9,167,Technical University of Denmark
+research,40.6,167,Université Catholique de Louvain
+research,31.4,172,University of Aberdeen
+research,39.5,172,University of Auckland
+research,37.4,174,University of Barcelona
+research,46.7,175,University of Konstanz
+research,41,176,Eindhoven University of Technology
+research,38.5,176,University College Dublin
+research,41.4,178,Hebrew University of Jerusalem
+research,43.9,179,University of Waterloo
+research,39.8,180,University of Gothenburg
+research,23.2,180,Scuola Superiore Sant’Anna
+research,31.5,182,University of Bergen
+research,31.6,182,Cardiff University
+research,35.3,182,University of Utah
+research,25.7,185,Brandeis University
+research,26.9,185,University of Dundee
+research,35.8,185,University of Würzburg
+research,29,188,Paris-Sud University
+research,38.1,189,Arizona State University
+research,40.8,190,University of Antwerp
+research,29.3,190,Boston College
+research,23.9,192,Ulm University
+research,26.7,193,University of Luxembourg
+research,52.4,193,Texas A&M University
+research,22.2,195,Charité - Universitätsmedizin Berlin
+research,27.5,196,Newcastle University
+research,18.1,196,"St George’s, University of London"
+research,27.4,198,University of Trento
+research,22.9,199,Paris Diderot University – Paris 7
+research,33.3,200,Queen’s University Belfast
+research,28.4,201-250,Aalborg University
+research,35.1,201-250,"Birkbeck, University of London"
+research,29.5,201-250,University of Bologna
+research,37.9,201-250,University at Buffalo
+research,36.7,201-250,University of Calgary
+research,35.3,201-250,Chalmers University of Technology
+research,26.7,201-250,City University of Hong Kong
+research,26.5,201-250,Copenhagen Business School
+research,29.4,201-250,Dalhousie University
+research,27,201-250,University of Duisburg-Essen
+research,30,201-250,École Normale Supérieure de Lyon
+research,40.1,201-250,Florida State University
+research,32.9,201-250,University of Fribourg
+research,30.4,201-250,Fudan University
+research,23.5,201-250,George Washington University
+research,28.6,201-250,Goethe University Frankfurt
+research,35.5,201-250,University of Hawai’i at Mānoa
+research,35.2,201-250,Hong Kong Polytechnic University
+research,29.2,201-250,University of Illinois at Chicago
+research,27.3,201-250,Indiana University
+research,26.7,201-250,University of Iowa
+research,21.7,201-250,Johannes Gutenberg University of Mainz
+research,21.6,201-250,Joseph Fourier University
+research,20.5,201-250,University of Kiel
+research,31.7,201-250,Laval University
+research,14.6,201-250,Medical University of Vienna
+research,20.6,201-250,Northeastern University
+research,15.7,201-250,Oregon Health and Science University
+research,30.5,201-250,University of Otago
+research,36.7,201-250,University of Ottawa
+research,28.8,201-250,Paris Descartes University
+research,17.8,201-250,Peter the Great St Petersburg Polytechnic University
+research,31.7,201-250,Polytechnic University of Milan
+research,27.8,201-250,Royal Veterinary College
+research,17.4,201-250,Rush University
+research,37.3,201-250,Sapienza University of Rome
+research,36.6,201-250,University of Science and Technology of China
+research,35.7,201-250,University of South Florida
+research,22,201-250,Stony Brook University
+research,44.5,201-250,University of Stuttgart
+research,32.8,201-250,Swedish University of Agricultural Sciences
+research,43.2,201-250,Technical University of Darmstadt
+research,35.1,201-250,University of Technology Sydney
+research,50.5,201-250,Tel Aviv University
+research,26.7,201-250,University of Texas at Dallas
+research,47.1,201-250,Tilburg University
+research,42.7,201-250,Tohoku University
+research,47.6,201-250,Tokyo Institute of Technology
+research,30,201-250,University of Victoria
+research,19.5,201-250,Wake Forest University
+research,32.4,201-250,University of Western Ontario
+research,17.5,201-250,William & Mary
+research,31.5,201-250,University of the Witwatersrand
+research,32.8,251-300,Aalto University
+research,22.1,251-300,Aix-Marseille University
+research,27.9,251-300,University of Bath
+research,31.2,251-300,Bayreuth University
+research,46.2,251-300,Bielefeld University
+research,22,251-300,University of Bordeaux
+research,22.6,251-300,Charles Darwin University
+research,30.3,251-300,Colorado School of Mines
+research,33,251-300,Colorado State University
+research,34,251-300,University of Delaware
+research,25.7,251-300,Flinders University
+research,30.5,251-300,University of Georgia
+research,25.2,251-300,Griffith University
+research,16.2,251-300,University of Iceland
+research,47.2,251-300,Indian Institute of Science
+research,29.4,251-300,Iowa State University
+research,22.8,251-300,James Cook University
+research,33.9,251-300,Justus Liebig University Giessen
+research,11.8,251-300,King Abdulaziz University
+research,27.1,251-300,Koç University
+research,43.4,251-300,Korea University
+research,36.6,251-300,University of Liège
+research,18.9,251-300,Linköping University
+research,32.2,251-300,Nanjing University
+research,36.6,251-300,National Tsing Hua University
+research,25.4,251-300,"National University of Ireland, Galway"
+research,26.5,251-300,University of Newcastle
+research,30.5,251-300,North Carolina State University
+research,28.5,251-300,Oregon State University
+research,45.2,251-300,Osaka University
+research,35.8,251-300,Queen’s University
+research,35.6,251-300,Queensland University of Technology
+research,31.5,251-300,Rensselaer Polytechnic Institute
+research,20.1,251-300,Royal College of Surgeons in Ireland
+research,30,251-300,Ruhr University Bochum
+research,10.9,251-300,Saint Louis University
+research,57.1,251-300,University of São Paulo
+research,29.2,251-300,Simon Fraser University
+research,28.9,251-300,University of Surrey
+research,20.8,251-300,Syracuse University
+research,25.7,251-300,University of Tasmania
+research,23.2,251-300,"University of Tennessee, Knoxville"
+research,15.1,251-300,Tomsk Polytechnic University
+research,19.3,251-300,Tulane University
+research,25,251-300,Umeå University
+research,32,251-300,Vienna University of Technology
+research,38.2,251-300,Virginia Polytechnic Institute and State University
+research,28.4,251-300,University of Wollongong
+research,46,251-300,Zhejiang University
+research,18.9,301-350,Aberystwyth University
+research,23.1,301-350,University of Alaska Fairbanks
+research,30.9,301-350,Autonomous University of Madrid
+research,22.1,301-350,Bangor University
+research,32.7,301-350,University of Bremen
+research,20.4,301-350,University of Cincinnati
+research,25.6,301-350,University of Connecticut
+research,21.9,301-350,Deakin University
+research,33.3,301-350,University of Essex
+research,21.2,301-350,George Mason University
+research,23.5,301-350,University of Greifswald
+research,42,301-350,Gwangju Institute of Science and Technology
+research,33.8,301-350,University of Hohenheim
+research,16.9,301-350,University of Innsbruck
+research,12.3,301-350,Kazan Federal University
+research,19.1,301-350,University of Kent
+research,36.9,301-350,Leibniz University of Hanover
+research,27.2,301-350,Macquarie University
+research,12.1,301-350,Medical College of Wisconsin
+research,24.2,301-350,University of Milan
+research,25.5,301-350,University of Milan-Bicocca
+research,16.7,301-350,Montpellier University
+research,38.9,301-350,Nagoya University
+research,14.8,301-350,University of Naples Federico II
+research,45.4,301-350,National Chiao Tung University
+research,24.1,301-350,National Research Nuclear University MePhI
+research,43.1,301-350,National Taiwan University of Science and Technology (Taiwan Tech)
+research,20.8,301-350,University of Navarra
+research,30.2,301-350,University of Nebraska-Lincoln
+research,10.4,301-350,Örebro University
+research,22.7,301-350,University of Oregon
+research,22.6,301-350,University of Padua
+research,22.5,301-350,University of Pavia
+research,18,301-350,Plymouth University
+research,45.2,301-350,Shanghai Jiao Tong University
+research,14.7,301-350,University of Southern Denmark
+research,35,301-350,Stellenbosch University
+research,23.4,301-350,University of Strasbourg
+research,29.8,301-350,Technical University of Dortmund
+research,33.3,301-350,Technion Israel Institute of Technology
+research,35.7,301-350,Toulouse 1 Capitole University
+research,18.5,301-350,University of Trieste
+research,22.3,301-350,University of Turin
+research,21.2,301-350,University of Turku
+research,24.5,301-350,Vrije Universiteit Brussel
+research,15.7,301-350,VŠB - Technical University of Ostrava
+research,34.1,301-350,Yonsei University
+research,30.8,301-350,York University
+research,17.5,351-400,Bilkent University
+research,17.4,351-400,"Binghamton University, State University of New York"
+research,19.2,351-400,University of Crete
+research,28.5,351-400,University of Cyprus
+research,14.6,351-400,Drexel University
+research,20.7,351-400,University of Eastern Finland
+research,20.4,351-400,University of Florence
+research,11.2,351-400,University of St Gallen
+research,15.8,351-400,Graz University of Technology
+research,34.2,351-400,University of Guelph
+research,32.6,351-400,Hanyang University
+research,12.1,351-400,Hong Kong Baptist University
+research,26.5,351-400,University of Houston
+research,28.6,351-400,Indian Institute of Technology Bombay
+research,25,351-400,Instituto Superior Técnico Lisboa
+research,25.5,351-400,University of Jyväskylä
+research,28.5,351-400,La Trobe University
+research,32.2,351-400,Loughborough University
+research,26.9,351-400,University of Manitoba
+research,21,351-400,University of Missouri
+research,15.6,351-400,University of Modena and Reggio Emilia
+research,13.6,351-400,University of Montana
+research,22.8,351-400,"National University of Ireland, Maynooth"
+research,13.3,351-400,University of Nebraska Medical Center
+research,15.4,351-400,University of New Mexico
+research,25.8,351-400,Norwegian University of Science and Technology
+research,15.9,351-400,University of Oulu
+research,47.6,351-400,Panthéon-Sorbonne University – Paris 1
+research,18.6,351-400,Polytechnic University of Turin
+research,21,351-400,University of Rome III
+research,32.3,351-400,Sabancı University
+research,27,351-400,San Diego State University
+research,26.7,351-400,University of South Australia
+research,21.5,351-400,University of South Carolina
+research,12.1,351-400,University of South Dakota
+research,42.3,351-400,State University of Campinas
+research,23.5,351-400,University of Stirling
+research,24.6,351-400,Sun Yat-sen University
+research,23.8,351-400,Swansea University
+research,20.2,351-400,Swinburne University of Technology
+research,22.8,351-400,University of Tartu
+research,18.2,351-400,Temple University
+research,16.6,351-400,University of Texas at San Antonio
+research,18.7,351-400,UiT The Arctic University of Norway
+research,28.3,351-400,Université Libre de Bruxelles
+research,9.5,351-400,Lille 2 University – Health and Law
+research,23.8,351-400,University College Cork
+research,13.1,351-400,Verona University
+research,28.7,351-400,Victoria University of Wellington
+research,28.2,351-400,Washington State University
+research,14.2,351-400,Wayne State University
+research,16.5,401-500,American University
+research,20.4,401-500,Aston University
+research,26.5,401-500,University of Aveiro
+research,21.6,401-500,University of Bari Aldo Moro
+research,21.3,401-500,Bar-Ilan University
+research,12.6,401-500,Bournemouth University
+research,14.8,401-500,University of Brescia
+research,14.7,401-500,Brno University of Technology
+research,23.3,401-500,Brunel University London
+research,27.8,401-500,Ca’ Foscari University of Venice
+research,13.2,401-500,University of Cagliari
+research,22.5,401-500,University of Canterbury
+research,11.3,401-500,Catholic University of the Sacred Heart
+research,21.5,401-500,Charles University in Prague
+research,29.4,401-500,"China Medical University, Taiwan"
+research,21.2,401-500,City University London
+research,13.2,401-500,Claude Bernard University Lyon 1
+research,26.5,401-500,University of Coimbra
+research,27.6,401-500,Complutense University of Madrid
+research,23.4,401-500,Concordia University
+research,20.2,401-500,Curtin University
+research,25.2,401-500,Dublin City University
+research,17.1,401-500,East China University of Science and Technology
+research,18.3,401-500,Ewha Womans University
+research,10.1,401-500,Federico Santa María Technical University
+research,17.2,401-500,University of Ferrara
+research,18.1,401-500,Florida International University
+research,14.2,401-500,University of Genoa
+research,19.5,401-500,Georgia State University
+research,16.3,401-500,University of Graz
+research,22.4,401-500,Heriot-Watt University
+research,32.8,401-500,Hokkaido University
+research,11,401-500,Howard University
+research,16.1,401-500,University of Hull
+research,19.4,401-500,University of Idaho
+research,25.8,401-500,Indian Institute of Technology Delhi
+research,30.5,401-500,Indian Institute of Technology Kharagpur
+research,20.7,401-500,Indian Institute of Technology Madras
+research,17.7,401-500,University of Ioannina
+research,26,401-500,Iran University of Science and Technology
+research,13.8,401-500,Johannes Kepler University of Linz
+research,22.6,401-500,University of Kaiserslautern
+research,17.6,401-500,Keele University
+research,25.7,401-500,University of KwaZulu-Natal
+research,27.6,401-500,Kyung Hee University
+research,27.5,401-500,Kyushu University
+research,15,401-500,Lehigh University
+research,27.7,401-500,Louisiana State University
+research,17,401-500,University of Macau
+research,10.6,401-500,Makerere University
+research,11,401-500,Marche Polytechnic University
+research,18.2,401-500,"University of Maryland, Baltimore County"
+research,19.6,401-500,Murdoch University
+research,12.2,401-500,University of Nantes
+research,16.3,401-500,National and Kapodistrian University of Athens
+research,40.2,401-500,National Autonomous University of Mexico
+research,40.2,401-500,National Cheng Kung University
+research,10.6,401-500,National Institute of Applied Sciences of Lyon (INSA Lyon)
+research,18.5,401-500,National Yang-Ming University
+research,14.7,401-500,University of Neuchâtel
+research,21.9,401-500,New University of Lisbon
+research,16.1,401-500,University of Nice Sophia Antipolis
+research,30.8,401-500,Novosibirsk State University
+research,13.8,401-500,The Open University
+research,18.8,401-500,Oxford Brookes University
+research,9.1,401-500,University of Palermo
+research,16.6,401-500,University of Parma
+research,18.9,401-500,University of Pisa
+research,14.8,401-500,Polytechnic University of Catalonia
+research,21.3,401-500,Pontifical Catholic University of Chile
+research,28.2,401-500,University of Porto
+research,10.9,401-500,University of Portsmouth
+research,17.7,401-500,RMIT University
+research,17.2,401-500,University of Rome II – Tor Vergata
+research,14.8,401-500,University of Rovira i Virgili
+research,31.4,401-500,Saint Petersburg State University
+research,13.2,401-500,University of Salento
+research,12.9,401-500,University of San Francisco
+research,22.4,401-500,University of Saskatchewan
+research,30.1,401-500,Sharif University of Technology
+research,17.8,401-500,University of Siena
+research,18.3,401-500,Southern Cross University
+research,35.3,401-500,State University of New York Albany
+research,28,401-500,University of Strathclyde
+research,13.7,401-500,University of Tampere
+research,17.2,401-500,Tampere University of Technology
+research,18.3,401-500,Tokyo Medical and Dental University (TMDU)
+research,11.4,401-500,Tokyo Metropolitan University
+research,30,401-500,University of Tsukuba
+research,20.5,401-500,University of Ulsan
+research,13.2,401-500,Ulster University
+research,24.5,401-500,Université du Québec à Montréal
+research,14.6,401-500,Universiti Teknologi Malaysia
+research,8.7,401-500,University of Urbino Carlo Bo
+research,16.9,401-500,University of Valencia
+research,18.2,401-500,University of Waikato
+research,24.6,401-500,Western Sydney University
+research,26.8,401-500,Wuhan University
+research,15.6,401-500,Xiamen University
+research,11.2,501-600,American University of Beirut
+research,25.7,501-600,Amirkabir University of Technology
+research,13.8,501-600,"University of the Andes, Colombia"
+research,17.4,501-600,University of Arkansas
+research,19.4,501-600,Auburn University
+research,12.5,501-600,Babeş-Bolyai University
+research,11.9,501-600,University of the Basque Country
+research,23.7,501-600,Bauman Moscow State Technical University
+research,21.3,501-600,Ben-Gurion University of the Negev
+research,2.9,501-600,Blaise Pascal University
+research,17.2,501-600,Boğaziçi University
+research,8.8,501-600,University of Burgundy
+research,19.3,501-600,University of Canberra
+research,24,501-600,Carleton University
+research,15.9,501-600,University of Catania
+research,11.4,501-600,Central Queensland University
+research,19.6,501-600,University of Chile
+research,24.9,501-600,China Agricultural University
+research,27.6,501-600,Chung-Ang University
+research,9.3,501-600,Czech Technical University in Prague
+research,10.1,501-600,De Montfort University
+research,14.7,501-600,East China Normal University
+research,16.1,501-600,Edith Cowan University
+research,19.7,501-600,Federal University of Rio de Janeiro
+research,14.7,501-600,University of Granada
+research,29.5,501-600,University of Haifa
+research,27.3,501-600,Harbin Institute of Technology
+research,9.5,501-600,University of Hertfordshire
+research,18.9,501-600,Hiroshima University
+research,22.7,501-600,Huazhong University of Science and Technology
+research,20.7,501-600,Indian Institute of Technology Guwahati
+research,15,501-600,Indian Institute of Technology Kanpur
+research,17.5,501-600,Indian Institute of Technology Roorkee
+research,23,501-600,Isfahan University of Technology
+research,25.8,501-600,Istanbul Technical University
+research,22.2,501-600,Jadavpur University
+research,14.8,501-600,Kanazawa University
+research,17.5,501-600,Kansas State University
+research,17.5,501-600,Keio University
+research,14.2,501-600,Kent State University
+research,16.1,501-600,King Fahd University of Petroleum and Minerals
+research,17.5,501-600,King Saud University
+research,10,501-600,University of La Laguna
+research,27.5,501-600,Lappeenranta University of Technology
+research,16.3,501-600,University of Limerick
+research,18.3,501-600,University of Lisbon
+research,11.6,501-600,Liverpool John Moores University
+research,15.1,501-600,Mahidol University
+research,10.6,501-600,Manchester Metropolitan University
+research,11.5,501-600,University of Maribor
+research,22.9,501-600,Masaryk University
+research,17.1,501-600,Massey University
+research,15.8,501-600,Memorial University of Newfoundland
+research,17.3,501-600,Middle East Technical University
+research,20.1,501-600,University of Minho
+research,18.4,501-600,Missouri University of Science and Technology
+research,21.8,501-600,Montana State University
+research,12.7,501-600,Monterrey Institute of Technology and Higher Education
+research,23.2,501-600,National Central University
+research,33,501-600,National Sun Yat-Sen University
+research,31.3,501-600,National Taiwan Normal University
+research,15,501-600,National Technical University of Athens
+research,16.6,501-600,New Jersey Institute of Technology
+research,19.2,501-600,New Mexico State University
+research,15.3,501-600,University of North Carolina at Greensboro
+research,22.7,501-600,Oklahoma State University
+research,13.4,501-600,Osaka City University
+research,14.4,501-600,Otto von Guericke University of Magdeburg
+research,10.8,501-600,University of Oviedo
+research,11.8,501-600,Palacký University in Olomouc
+research,8.8,501-600,Panjab University
+research,11.1,501-600,Paris Dauphine University
+research,24.1,501-600,Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
+research,14.4,501-600,Portland State University
+research,21.2,501-600,University of Pretoria
+research,24.7,501-600,Pusan National University
+research,9.9,501-600,Quaid-i-azam University
+research,15.8,501-600,University of Regina
+research,13.7,501-600,Renmin University of China
+research,10.3,501-600,University of Rennes 1
+research,16.9,501-600,University of Salamanca
+research,14.1,501-600,University of Santiago de Compostela
+research,10.6,501-600,Semmelweis University
+research,14.9,501-600,University of Seville
+research,9.5,501-600,Université de Sherbrooke
+research,13.7,501-600,Soochow University
+research,22.1,501-600,South China University of Technology
+research,15,501-600,Tallinn University of Technology
+research,20,501-600,Tehran University of Medical Sciences
+research,10.1,501-600,University of Texas at Arlington
+research,34.4,501-600,Tianjin University
+research,24.1,501-600,Tokyo University of Agriculture and Technology
+research,13.4,501-600,University of Toledo
+research,29.2,501-600,Tongji University
+research,12.9,501-600,University of Tulsa
+research,14.8,501-600,United Arab Emirates University
+research,15.8,501-600,University of Warsaw
+research,13.8,501-600,University of Wisconsin-Milwaukee
+research,22.5,501-600,Xi’an Jiaotong University
+research,12.7,501-600,University of Zaragoza
+research,10,601-800,University of A Coruña
+research,11,601-800,Adam Mickiewicz University
+research,3.7,601-800,AGH University of Science and Technology
+research,11.9,601-800,Ajou University
+research,11.2,601-800,University of Alcalá
+research,8.2,601-800,Alexandria University
+research,13.6,601-800,Alexandru Ioan Cuza University
+research,10,601-800,Aligarh Muslim University
+research,10.6,601-800,American University of Sharjah
+research,5.8,601-800,Amrita University
+research,22.6,601-800,Anadolu University
+research,6.9,601-800,Andhra University
+research,21.1,601-800,University of Antioquia
+research,15,601-800,Aristotle University of Thessaloniki
+research,15.9,601-800,"Asia University, Taiwan"
+research,18.8,601-800,Athens University of Economics and Business
+research,9.8,601-800,Auckland University of Technology
+research,9.7,601-800,Austral University of Chile
+research,21.7,601-800,Beijing Institute of Technology
+research,8.7,601-800,Belarusian State University
+research,13.2,601-800,University of Belgrade
+research,8.3,601-800,"Birla Institute of Technology and Science, Pilani"
+research,15.9,601-800,University of Bradford
+research,7.4,601-800,University of Brasília
+research,10.7,601-800,University of Brighton
+research,11.5,601-800,University of Bucharest
+research,13.7,601-800,Budapest University of Technology and Economics
+research,11.1,601-800,Cairo University
+research,8.7,601-800,University of Calcutta
+research,10.4,601-800,"California State University, Long Beach"
+research,14.9,601-800,Capital Medical University
+research,10.3,601-800,University of Castilla-La Mancha
+research,9.4,601-800,University of Central Lancashire
+research,6.3,601-800,University of Cergy-Pontoise
+research,24.7,601-800,Chang Gung University
+research,17.4,601-800,Carlos III University of Madrid
+research,12,601-800,"University of Chemistry and Technology, Prague"
+research,9.4,601-800,Chiang Mai University
+research,16.8,601-800,Chiba University
+research,21.4,601-800,China University of Geosciences (Wuhan)
+research,26.6,601-800,China University of Petroleum (Beijing)
+research,14.7,601-800,Chonbuk National University
+research,15.5,601-800,Chongqing University
+research,11.7,601-800,Chonnam National University
+research,14.1,601-800,Chulalongkorn University
+research,22.1,601-800,Chung Yuan Christian University
+research,17.7,601-800,Chungnam National University
+research,19.7,601-800,Clemson University
+research,10.3,601-800,Comenius University in Bratislava
+research,7.7,601-800,Coventry University
+research,19,601-800,Dalian University of Technology
+research,11.4,601-800,University of Debrecen
+research,10.8,601-800,University of Delhi
+research,7.2,601-800,University of Dhaka
+research,8.8,601-800,Dublin Institute of Technology
+research,11.3,601-800,Ehime University
+research,12.9,601-800,University of Electronic Science and Technology of China
+research,12.1,601-800,Eötvös Loránd University
+research,10.9,601-800,Erciyes University
+research,8.1,601-800,Federal University of Bahia
+research,15.4,601-800,Federal University of Minas Gerais
+research,9.6,601-800,Federal University of Paraná (UFPR)
+research,13.7,601-800,Federal University of Rio Grande do Sul
+research,12.2,601-800,Federal University of Santa Catarina
+research,10.8,601-800,Federal University of São Carlos
+research,14.5,601-800,Federal University of Viçosa
+research,16.4,601-800,Federal University of Lavras
+research,13.7,601-800,Feng Chia University
+research,13.5,601-800,Florida Institute of Technology
+research,9.8,601-800,Fu Jen Catholic University
+research,9.5,601-800,Gdańsk University of Technology
+research,15.6,601-800,University of Ghana
+research,16.9,601-800,Gifu University
+research,10.4,601-800,Glasgow Caledonian University
+research,9.5,601-800,University of Greenwich
+research,11.8,601-800,Hacettepe University
+research,5.4,601-800,University of Huddersfield
+research,15,601-800,Hunan University
+research,11.1,601-800,University of Ibadan
+research,8,601-800,University of Indonesia
+research,20,601-800,Inha University
+research,11.5,601-800,I-Shou University
+research,23.3,601-800,Istanbul University
+research,14.4,601-800,Jagiellonian University
+research,14.4,601-800,Jilin University
+research,7.7,601-800,University of Jordan
+research,6.2,601-800,Jordan University of Science and Technology
+research,10.5,601-800,Juntendo University
+research,18.1,601-800,K.N. Toosi University of Technology
+research,22.2,601-800,Kaohsiung Medical University
+research,7.4,601-800,Khon Kaen University
+research,11.4,601-800,King Mongkut’s University of Technology Thonburi
+research,12.1,601-800,Kingston University
+research,7.9,601-800,Kinki University
+research,15.4,601-800,Kobe University
+research,19.6,601-800,Konkuk University
+research,11.6,601-800,Kumamoto University
+research,16,601-800,Kyungpook National University
+research,12.5,601-800,Kyushu Institute of Technology
+research,10.2,601-800,University of Latvia
+research,8.6,601-800,Lille 1 University – Science and Technology
+research,11.9,601-800,University of Lincoln
+research,13.6,601-800,University of Ljubljana
+research,6.3,601-800,University of Marrakech Cadi Ayyad
+research,15.7,601-800,Miami University
+research,10.6,601-800,Middlesex University
+research,16.3,601-800,Moscow Institute of Physics and Technology
+research,11.7,601-800,University of Murcia
+research,10.8,601-800,Nagasaki University
+research,9,601-800,University of Nairobi
+research,12.5,601-800,National Chengchi University
+research,20.3,601-800,National Chung Cheng University
+research,16.8,601-800,National Chung Hsing University
+research,14.6,601-800,National Taipei University of Technology
+research,21,601-800,National Taiwan Ocean University
+research,9,601-800,National University of Córdoba
+research,17.5,601-800,National University of Science and Technology (MISiS)
+research,7,601-800,National University of Sciences and Technology
+research,10.1,601-800,Niigata University
+research,10.9,601-800,Northumbria University
+research,15.4,601-800,Northwestern Polytechnical University
+research,8.9,601-800,Nottingham Trent University
+research,11.9,601-800,Oakland University
+research,10.7,601-800,Ocean University of China
+research,14.9,601-800,Ohio University
+research,14.9,601-800,Okayama University
+research,10.2,601-800,Osaka Prefecture University
+research,11.9,601-800,University of Pardubice
+research,11.6,601-800,University of Paris North – Paris 13
+research,21.3,601-800,Paris-Sorbonne University – Paris 4
+research,12.1,601-800,University of Patras
+research,9,601-800,University of Pécs
+research,12.7,601-800,Polytechnic University of Valencia
+research,6.5,601-800,Pontifical Catholic University of Paraná
+research,10.9,601-800,Pontifical Catholic University of Rio Grande do Sul (PUCRS)
+research,8,601-800,Pontifical Catholic University of Valparaíso
+research,7,601-800,Prince of Songkla University
+research,10.3,601-800,Qatar University
+research,9.1,601-800,Rio de Janeiro State University (UERJ)
+research,13.4,601-800,Rochester Institute of Technology
+research,9.6,601-800,Saitama University
+research,12.1,601-800,University of Salford
+research,11.3,601-800,"University of Santiago, Chile (USACH)"
+research,22.6,601-800,São Paulo State University (UNESP)
+research,12.4,601-800,Savitribai Phule Pune University
+research,22.4,601-800,University of Science and Technology Beijing
+research,12.2,601-800,Sejong University
+research,17.5,601-800,University of Seoul
+research,19,601-800,Shahid Beheshti University
+research,16.1,601-800,Shanghai University
+research,9.1,601-800,Shantou University
+research,9.4,601-800,Sheffield Hallam University
+research,8.3,601-800,Shinshu University
+research,7.9,601-800,Showa University
+research,18.4,601-800,Sichuan University
+research,8,601-800,University of Silesia in Katowice
+research,8.6,601-800,Slovak University of Technology in Bratislava
+research,24.8,601-800,Sogang University
+research,9.4,601-800,Sophia University
+research,11.3,601-800,University of South Africa
+research,8.2,601-800,Southern Federal University
+research,11.8,601-800,University of Southern Mississippi
+research,13.1,601-800,University of Southern Queensland
+research,5.9,601-800,Suez Canal University
+research,10.6,601-800,Sultan Qaboos University
+research,11.6,601-800,Suranaree University of Technology
+research,10.5,601-800,University of Szeged
+research,21.7,601-800,Taipei Medical University
+research,11,601-800,Taras Shevchenko National University of Kyiv
+research,14.6,601-800,Technical University of Madrid
+research,16.9,601-800,University of Tehran
+research,18.7,601-800,University of Texas at El Paso
+research,17.2,601-800,Texas Tech University
+research,7.6,601-800,Tokai University
+research,21.6,601-800,Tokushima University
+research,12.4,601-800,Tokyo University of Marine Science and Technology
+research,24.1,601-800,Tokyo University of Science
+research,20.8,601-800,Tomsk State University
+research,10.1,601-800,Tottori University
+research,18.9,601-800,Toyohashi University of Technology
+research,15.9,601-800,Universiti Kebangsaan Malaysia
+research,20.9,601-800,Universiti Putra Malaysia
+research,16.6,601-800,Universiti Sains Malaysia
+research,7.7,601-800,Universiti Teknologi MARA
+research,10.6,601-800,Ural Federal University
+research,8.9,601-800,V.N. Karazin Kharkiv National University
+research,10.5,601-800,University of Vigo
+research,13.6,601-800,Vilnius University
+research,8.5,601-800,Warsaw University of Technology
+research,14.6,601-800,Waseda University
+research,9.7,601-800,University of West Bohemia
+research,11.2,601-800,University of the West of England
+research,3.9,601-800,West University of Timişoara
+research,11.7,601-800,University of Westminster
+research,12.1,601-800,Xidian University
+research,10.9,601-800,Yeungnam University
+research,7.6,601-800,Yıldız Technical University
+research,10.2,601-800,Yokohama City University
+research,16,601-800,Yokohama National University
+research,18.3,601-800,Yuan Ze University
