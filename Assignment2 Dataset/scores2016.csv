@@ -2409,7 +2409,7 @@ income,52.10,7,Princeton University
 income,53.70,8,Imperial College London
 income,80.00,9,ETH Zurich – Swiss Federal Institute of Technology Zurich
 income,36.60,10,University of Chicago
-income,100.00,11,Johns Hopkins University
+income,99.90,11,Johns Hopkins University
 income,43.30,12,Yale University
 income,47.90,13,"University of California, Berkeley"
 income,40.50,14,University College London
@@ -2417,7 +2417,7 @@ income,47.90,16,"University of California, Los Angeles"
 income,47.90,17,University of Pennsylvania
 income,33.70,18,Cornell University
 income,49.10,19,University of Toronto
-income,100.00,20,Duke University
+income,99.90,20,Duke University
 income,56.30,21,University of Michigan
 income,57.50,22,Carnegie Mellon University
 income,32.20,23,London School of Economics and Political Science
@@ -2426,26 +2426,26 @@ income,81.20,25,Northwestern University
 income,49.80,26,National University of Singapore
 income,40.10,27,King’s College London
 income,75.80,28,Karolinska Institute
-income,100.00,29,LMU Munich
+income,99.90,29,LMU Munich
 income,30.40,30,New York University
 income,65.40,31,École Polytechnique Fédérale de Lausanne
 income,43.10,32,University of Washington
 income,64.60,33,University of Melbourne
 income,42.60,34,University of British Columbia
-income,100.00,35,KU Leuven
+income,99.90,35,KU Leuven
 income,52.80,36,University of Illinois at Urbana-Champaign
 income,68.20,37,Heidelberg University
 income,40.30,38,McGill University
 income,56.70,39,"University of California, San Diego"
 income,90.40,39,"University of California, Santa Barbara"
 income,73.70,41,Georgia Institute of Technology
-income,100.00,42,Peking University
+income,99.90,42,Peking University
 income,50.80,43,University of Tokyo
 income,57.30,44,"University of California, Davis"
 income,53.70,44,University of Hong Kong
 income,63.10,46,University of Texas at Austin
-income,100.00,47,Tsinghua University
-income,100.00,47,Wageningen University and Research Center
+income,99.90,47,Tsinghua University
+income,99.90,47,Wageningen University and Research Center
 income,36.10,49,Humboldt University of Berlin
 income,48.50,50,University of Wisconsin-Madison
 income,31.40,51,Brown University
@@ -2462,7 +2462,7 @@ income,33.50,60,Washington University in St Louis
 income,89.10,62,Utrecht University
 income,39.40,63,University of North Carolina at Chapel Hill
 income,30.30,64,Boston University
-income,100.00,65,Delft University of Technology
+income,99.90,65,Delft University of Technology
 income,98.50,65,University of Minnesota
 income,49.80,67,Leiden University
 income,38.00,68,University of Southern California
@@ -2481,7 +2481,7 @@ income,37.70,80,University of Warwick
 income,39.50,81,Uppsala University
 income,45.00,82,University of Copenhagen
 income,50.00,82,University of New South Wales
-income,100.00,84,University of Freiburg
+income,99.90,84,University of Freiburg
 income,85.40,85,Seoul National University
 income,30.60,86,University of St Andrews
 income,63.20,87,Vanderbilt University
@@ -2512,7 +2512,7 @@ income,37.50,110,University of Southampton
 income,52.00,112,Scuola Normale Superiore di Pisa
 income,92.60,113,University of Montreal
 income,37.40,113,Pierre and Marie Curie University
-income,100.00,116,Pohang University of Science and Technology
+income,99.90,116,Pohang University of Science and Technology
 income,32.30,117,"University of Maryland, College Park"
 income,88.30,118,Ghent University
 income,34.70,119,University of Birmingham
@@ -2543,7 +2543,7 @@ income,36.10,144,"University of California, Santa Cruz"
 income,56.00,144,University of Lausanne
 income,34.90,146,Autonomous University of Barcelona
 income,37.90,147,University of Virginia
-income,100.00,148,Korea Advanced Institute of Science and Technology (KAIST)
+income,99.90,148,Korea Advanced Institute of Science and Technology (KAIST)
 income,79.30,149,University of Adelaide
 income,28.50,149,University of East Anglia
 income,91.20,149,University of Twente
@@ -2730,7 +2730,7 @@ income,69.40,301-350,University of Pavia
 income,28.50,301-350,Plymouth University
 income,92.90,301-350,Shanghai Jiao Tong University
 income,28.00,301-350,University of Southern Denmark
-income,100.00,301-350,Stellenbosch University
+income,99.90,301-350,Stellenbosch University
 income,32.80,301-350,University of Strasbourg
 income,48.60,301-350,Technical University of Dortmund
 income,28.80,301-350,Technion Israel Institute of Technology
@@ -2845,7 +2845,7 @@ income,28.00,401-500,Marche Polytechnic University
 income,31.70,401-500,"University of Maryland, Baltimore County"
 income,36.50,401-500,Murdoch University
 income,63.70,401-500,National Autonomous University of Mexico
-income,100.00,401-500,National Cheng Kung University
+income,99.90,401-500,National Cheng Kung University
 income,40.30,401-500,National Institute of Applied Sciences of Lyon (INSA Lyon)
 income,30.20,401-500,National Yang-Ming University
 income,41.30,401-500,New University of Lisbon
@@ -2954,7 +2954,7 @@ income,34.10,501-600,University of Oviedo
 income,28.70,501-600,Palacký University in Olomouc
 income,28.10,501-600,Panjab University
 income,30.60,501-600,Paris Dauphine University
-income,100.00,501-600,Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
+income,99.90,501-600,Pontifical Catholic University of Rio de Janeiro (PUC-Rio)
 income,44.60,501-600,Portland State University
 income,52.40,501-600,University of Pretoria
 income,66.80,501-600,Pusan National University
@@ -2971,7 +2971,7 @@ income,86.80,501-600,South China University of Technology
 income,44.80,501-600,Tallinn University of Technology
 income,30.00,501-600,Tehran University of Medical Sciences
 income,33.40,501-600,University of Texas at Arlington
-income,100.00,501-600,Tianjin University
+income,99.90,501-600,Tianjin University
 income,39.90,501-600,Tokyo University of Agriculture and Technology
 income,32.90,501-600,University of Toledo
 income,63.50,501-600,Tongji University
@@ -2990,7 +2990,7 @@ income,28.20,601-800,Alexandru Ioan Cuza University
 income,29.60,601-800,Aligarh Muslim University
 income,33.30,601-800,American University of Sharjah
 income,28.00,601-800,Amrita University
-income,100.00,601-800,Anadolu University
+income,99.90,601-800,Anadolu University
 income,31.30,601-800,Andhra University
 income,43.60,601-800,University of Antioquia
 income,33.60,601-800,Aristotle University of Thessaloniki
@@ -3018,7 +3018,7 @@ income,38.90,601-800,"University of Chemistry and Technology, Prague"
 income,32.30,601-800,Chiang Mai University
 income,55.30,601-800,Chiba University
 income,64.50,601-800,China University of Geosciences (Wuhan)
-income,100.00,601-800,China University of Petroleum (Beijing)
+income,99.90,601-800,China University of Petroleum (Beijing)
 income,33.30,601-800,Chonbuk National University
 income,73.80,601-800,Chongqing University
 income,31.40,601-800,Chonnam National University
@@ -3052,7 +3052,7 @@ income,29.20,601-800,University of Ibadan
 income,40.00,601-800,University of Indonesia
 income,64.70,601-800,Inha University
 income,41.00,601-800,I-Shou University
-income,100.00,601-800,Istanbul University
+income,99.90,601-800,Istanbul University
 income,28.00,601-800,Jagiellonian University
 income,42.10,601-800,Jilin University
 income,28.80,601-800,University of Jordan
