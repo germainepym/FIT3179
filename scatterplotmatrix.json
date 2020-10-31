@@ -76,7 +76,10 @@
         {"field": "University Name", "type": "nominal"},
         {"field": "Country", "type": "nominal"},
         {"field": "Continent", "type": "nominal"},
-        {"field": "World Rank", "type": "nominal"}
+        {"field": "World Rank", "type": "nominal"},
+        {"field": "teaching", "type": "quantitative"},
+        {"field": "citations", "type": "quantitative"},
+        {"field": "research", "type": "quantitative"}
       ]
     }
   },
