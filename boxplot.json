@@ -7,11 +7,18 @@
   "data": {
     "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/scores2016.csv"
   },
-  "mark": {"type": "boxplot", "extent": "min-max"},
+  "mark": {"type": "boxplot"},
   "encoding": {
     "x": {"field": "Category", "type": "nominal"},
-    "color": {"field": "Category", "type": "nominal", "legend": null},
-    "y": {"field": "Score", "type": "quantitative", "scale": {"zero": false}}
+    "color": {"field": "Category", "type": "nominal"},
+    "tooltip": [
+ {"field": "University Name", "type": "nominal"},
+  {"field": "World Rank", "type": "nominal"},
+  {"field": "Score", "type": "quantitative"}
+ ],
+    "y": {"field": "Score", "type": "quantitative", "scale": {"zero": false}
+    }
   },
+  
   "config": {}
 }
