@@ -43,7 +43,9 @@
         "field": "Students per 10,000 population",
         "type": "quantitative",
         "format": ".2f"
-      }
+      },
+      {"field": "Population", "type": "quantitative"}
+
     ]
   },
   "config": {}
