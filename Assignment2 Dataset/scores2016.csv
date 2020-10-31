@@ -1194,7 +1194,7 @@ research,18.2,351-400,Temple University
 research,16.6,351-400,University of Texas at San Antonio
 research,18.7,351-400,UiT The Arctic University of Norway
 research,28.3,351-400,Université Libre de Bruxelles
-research,9.5,351-400,Lille 2 University – Health and Law
+research,10,351-400,Lille 2 University – Health and Law
 research,23.8,351-400,University College Cork
 research,13.1,351-400,Verona University
 research,28.7,351-400,Victoria University of Wellington
@@ -1265,7 +1265,7 @@ research,16.1,401-500,University of Nice Sophia Antipolis
 research,30.8,401-500,Novosibirsk State University
 research,13.8,401-500,The Open University
 research,18.8,401-500,Oxford Brookes University
-research,9.1,401-500,University of Palermo
+research,10,401-500,University of Palermo
 research,16.6,401-500,University of Parma
 research,18.9,401-500,University of Pisa
 research,14.8,401-500,Polytechnic University of Catalonia
@@ -1318,7 +1318,7 @@ research,11.4,501-600,Central Queensland University
 research,19.6,501-600,University of Chile
 research,24.9,501-600,China Agricultural University
 research,27.6,501-600,Chung-Ang University
-research,9.3,501-600,Czech Technical University in Prague
+research,10,501-600,Czech Technical University in Prague
 research,10.1,501-600,De Montfort University
 research,14.7,501-600,East China Normal University
 research,16.1,501-600,Edith Cowan University
@@ -1326,7 +1326,7 @@ research,19.7,501-600,Federal University of Rio de Janeiro
 research,14.7,501-600,University of Granada
 research,29.5,501-600,University of Haifa
 research,27.3,501-600,Harbin Institute of Technology
-research,9.5,501-600,University of Hertfordshire
+research,10,501-600,University of Hertfordshire
 research,18.9,501-600,Hiroshima University
 research,22.7,501-600,Huazhong University of Science and Technology
 research,20.7,501-600,Indian Institute of Technology Guwahati
@@ -1383,7 +1383,7 @@ research,16.9,501-600,University of Salamanca
 research,14.1,501-600,University of Santiago de Compostela
 research,10.6,501-600,Semmelweis University
 research,14.9,501-600,University of Seville
-research,9.5,501-600,Université de Sherbrooke
+research,10,501-600,Université de Sherbrooke
 research,13.7,501-600,Soochow University
 research,22.1,501-600,South China University of Technology
 research,15,501-600,Tallinn University of Technology
@@ -1431,12 +1431,12 @@ research,8.7,601-800,University of Calcutta
 research,10.4,601-800,"California State University, Long Beach"
 research,14.9,601-800,Capital Medical University
 research,10.3,601-800,University of Castilla-La Mancha
-research,9.4,601-800,University of Central Lancashire
+research,10,601-800,University of Central Lancashire
 research,6.3,601-800,University of Cergy-Pontoise
 research,24.7,601-800,Chang Gung University
 research,17.4,601-800,Carlos III University of Madrid
 research,12,601-800,"University of Chemistry and Technology, Prague"
-research,9.4,601-800,Chiang Mai University
+research,10,601-800,Chiang Mai University
 research,16.8,601-800,Chiba University
 research,21.4,601-800,China University of Geosciences (Wuhan)
 research,26.6,601-800,China University of Petroleum (Beijing)
@@ -1469,11 +1469,11 @@ research,16.4,601-800,Federal University of Lavras
 research,13.7,601-800,Feng Chia University
 research,13.5,601-800,Florida Institute of Technology
 research,10,601-800,Fu Jen Catholic University
-research,9.5,601-800,Gdańsk University of Technology
+research,10,601-800,Gdańsk University of Technology
 research,15.6,601-800,University of Ghana
 research,16.9,601-800,Gifu University
 research,10.4,601-800,Glasgow Caledonian University
-research,9.5,601-800,University of Greenwich
+research,10,601-800,University of Greenwich
 research,11.8,601-800,Hacettepe University
 research,5.4,601-800,University of Huddersfield
 research,15,601-800,Hunan University
@@ -1537,9 +1537,9 @@ research,10.9,601-800,Pontifical Catholic University of Rio Grande do Sul (PUCRS
 research,8,601-800,Pontifical Catholic University of Valparaíso
 research,7,601-800,Prince of Songkla University
 research,10.3,601-800,Qatar University
-research,9.1,601-800,Rio de Janeiro State University (UERJ)
+research,9,601-800,Rio de Janeiro State University (UERJ)
 research,13.4,601-800,Rochester Institute of Technology
-research,10,601-800,Saitama University
+research,9,601-800,Saitama University
 research,12.1,601-800,University of Salford
 research,11.3,601-800,"University of Santiago, Chile (USACH)"
 research,22.6,601-800,São Paulo State University (UNESP)
@@ -1549,15 +1549,15 @@ research,12.2,601-800,Sejong University
 research,17.5,601-800,University of Seoul
 research,19,601-800,Shahid Beheshti University
 research,16.1,601-800,Shanghai University
-research,9.1,601-800,Shantou University
-research,9.4,601-800,Sheffield Hallam University
+research,9,601-800,Shantou University
+research,9,601-800,Sheffield Hallam University
 research,8.3,601-800,Shinshu University
 research,7.9,601-800,Showa University
 research,18.4,601-800,Sichuan University
 research,8,601-800,University of Silesia in Katowice
 research,8.6,601-800,Slovak University of Technology in Bratislava
 research,24.8,601-800,Sogang University
-research,9.4,601-800,Sophia University
+research,9,601-800,Sophia University
 research,11.3,601-800,University of South Africa
 research,8.2,601-800,Southern Federal University
 research,11.8,601-800,University of Southern Mississippi
@@ -1589,7 +1589,7 @@ research,10.5,601-800,University of Vigo
 research,13.6,601-800,Vilnius University
 research,8.5,601-800,Warsaw University of Technology
 research,14.6,601-800,Waseda University
-research,10,601-800,University of West Bohemia
+research,9,601-800,University of West Bohemia
 research,11.2,601-800,University of the West of England
 research,3.9,601-800,West University of Timişoara
 research,11.7,601-800,University of Westminster
