@@ -1,5 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Scatterplot Matrix of Teaching, Research and Citation Scores",
   "repeat": {
     "row": ["research", "citations", "teaching"],
     "column": ["teaching", "citations", "research"]
