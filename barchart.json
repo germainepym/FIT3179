@@ -11,7 +11,8 @@
      "tooltip": [
  {"field": "World Rank", "type": "nominal"},
  {"field": "Category", "type": "nominal"},
- {"field": "Score", "type": "quantitative", "format": ".1f"}
+ {"field": "Score", "type": "quantitative", "format": ".1f"},
+ {"field": "Actual Score", "type": "quantitative", "format": ".1f"}
  ]
   }
 }
