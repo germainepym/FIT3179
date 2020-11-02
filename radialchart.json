@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "description": "A simple radial chart with embedded data.",
   "title": "Top 10 University in 2016",
   "data": {
     "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/Top102016.csv"

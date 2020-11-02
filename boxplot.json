@@ -3,7 +3,6 @@
   "width": 350,
   "height": 200,
   "title": "Boxplot of Citation, Research, International, Income and Teaching Score",
-  "description": "A vertical box plot showing median, min, and max body mass of penguins.",
   "data": {
     "url": "https://raw.githubusercontent.com/germainepym/FIT3179/main/Assignment2%20Dataset/scores2016.csv"
   },
